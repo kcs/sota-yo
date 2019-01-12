@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE script:module PUBLIC "-//OpenOffice.org//DTD OfficeDocument 1.0//EN" "module.dtd">
+<script:module xmlns:script="http://openoffice.org/2000/script" script:name="csv" script:language="StarBasic" script:moduleType="normal">Sub ExportAllToCSV
+
+  GlobalScope.BasicLibraries.LoadLibrary( &quot;Tools&quot; )
+
+  Dim params(2) as new com.sun.star.beans.PropertyValue
+  Dim url as String, folder as String, fname as String
+  
+  params(0).Name = &quot;FilterName&quot;
+  params(0).Value = &quot;Text - txt - csv (StarCalc)&quot;
+  params(1).Name = &quot;FilterOptions&quot;
+  params(1).Value = &quot;44,34,76,1,1&quot;
+  
+  url = thisComponent.getUrl()
+  fname = FileNameoutofPath( url )
+  folder = RTrimStr( url, fname )
+  
+  ctrl = thisComponent.getCurrentController()
+  
+  sheets = thisComponent.Sheets.createEnumeration()
+  while sheets.hasMoreElements()
+  	sh = sheets.nextElement()
+  	ctrl.setActiveSheet( sh )
+  	thisComponent.storeToURL( folder &amp; sh.getName &amp; &quot;.csv&quot;, params )
+  wend
+End Sub
+
+</script:module>
