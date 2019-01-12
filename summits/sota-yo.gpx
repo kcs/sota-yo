@@ -1,0 +1,6176 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx version="1.1"
+     creator="YO6PIB"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd"
+     xmlns="http://www.topografix.com/GPX/1/1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <name>SOTA YO summit list</name>
+  </metadata>
+
+  <wpt lat="47.5971" lon="24.6341">
+    <ele>2303</ele>
+    <name>YO/EC-001 Nagy-Pietrosz</name>
+    <cmt>YOFF-310</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.1250" lon="25.1858">
+    <ele>2100</ele>
+    <name>YO/EC-002 Pietrosz; Nagy-köves</name>
+    <cmt>YOFF-002</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.7333" lon="24.7200">
+    <ele>1930</ele>
+    <name>YO/EC-004 Toronyága</name>
+    <cmt>YOFF-023</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.9775" lon="25.9499">
+    <ele>1901</ele>
+    <name>YO/EC-005 Tóka</name>
+    <cmt>YOFF-003</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3811" lon="25.6246">
+    <ele>1895</ele>
+    <name>YO/EC-006 Baj-havas</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.4342" lon="25.4842">
+    <ele>1856</ele>
+    <name>YO/EC-007 Gyamaló</name>
+    <cmt>YOFF-394</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5507" lon="25.6386">
+    <ele>1844</ele>
+    <name>YO/EC-008 Nagykő-havas</name>
+    <cmt>YOFF-379</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.4530" lon="25.5819">
+    <ele>1801</ele>
+    <name>YO/EC-010 Madarasi Hargita</name>
+    <cmt>YOFF-279</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5689" lon="25.5678">
+    <ele>1799</ele>
+    <name>YO/EC-011 Keresztény-havas</name>
+    <cmt>YOFF-390</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.7041" lon="25.8044">
+    <ele>1792</ele>
+    <name>YO/EC-012 Nagy-Hagymás</name>
+    <cmt>YOFF-004</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.6838" lon="25.2280">
+    <ele>1777</ele>
+    <name>YO/EC-013 Nagy-Mező-havas</name>
+    <cmt>YOFF-215</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.5158" lon="25.5834">
+    <ele>1589</ele>
+    <name>YO/EC-014 Fertő-tető</name>
+    <cmt>YOFF-279</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.6400" lon="26.1592">
+    <ele>1664</ele>
+    <name>YO/EC-016 Gerendus; Tar-havas</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.4558" lon="25.5725">
+    <ele>1650</ele>
+    <name>YO/EC-017 Ráró</name>
+    <cmt>YOFF-170</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.3175" lon="25.3392">
+    <ele>1301</ele>
+    <name>YO/EC-018 Diecilor</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.2008" lon="24.9083">
+    <ele>1591</ele>
+    <name>YO/EC-019 Căsarul</name>
+    <cmt>YOFF-242</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.4083" lon="25.6178">
+    <ele>1759</ele>
+    <name>YO/EC-020 Csicsói Hargita</name>
+    <cmt>YOFF-157</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.8608" lon="25.7317">
+    <ele>1609</ele>
+    <name>YO/EC-021 Vit-havas</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.7975" lon="25.2858">
+    <ele>1516</ele>
+    <name>YO/EC-022 Kereszt-hegy</name>
+    <cmt>YOFF-215</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.9275" lon="25.8033">
+    <ele>1501</ele>
+    <name>YO/EC-023 Hegyes</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.6950" lon="23.8617">
+    <ele>1443</ele>
+    <name>YO/EC-024 Gutin</name>
+    <cmt>YOFF-278</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.6100" lon="25.4958">
+    <ele>1374</ele>
+    <name>YO/EC-025 Păuşa</name>
+    <cmt>YOFF-454</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.1367" lon="25.8883">
+    <ele>1301</ele>
+    <name>YO/EC-027 Nagy-Csomád</name>
+    <cmt>YOFF-429</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.7108" lon="25.4050">
+    <ele>1292</ele>
+    <name>YO/EC-028 Kotla</name>
+    <cmt>YOFF-177</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.6808" lon="25.6275">
+    <ele>1161</ele>
+    <name>YO/EC-029 Lupoaia</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.7200" lon="25.5867">
+    <ele>1141</ele>
+    <name>YO/EC-030 La Ţoante</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.6800" lon="25.5108">
+    <ele>1006</ele>
+    <name>YO/EC-031 Seredna</name>
+    <cmt>YOFF-454</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.3056" lon="26.5708">
+    <ele>666</ele>
+    <name>YO/EC-034 Drăcoaia</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.5317" lon="26.4408">
+    <ele>519</ele>
+    <name>YO/EC-035 Dealul Vultureşti</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.9400" lon="27.2425">
+    <ele>467</ele>
+    <name>YO/EC-036 Dealul Tansa</name>
+    <cmt>YOFF-337</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.9356" lon="27.9123">
+    <ele>414</ele>
+    <name>YO/EC-037 Crasna</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.5259" lon="24.8836">
+    <ele>2279</ele>
+    <name>YO/EC-038 Ünő-kő</name>
+    <cmt>YOFF-310</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.5792" lon="24.7242">
+    <ele>2189</ele>
+    <name>YO/EC-039 Puzdra</name>
+    <cmt>YOFF-310</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.5641" lon="24.8125">
+    <ele>2159</ele>
+    <name>YO/EC-040 Gargaló</name>
+    <cmt>YOFF-310</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.5583" lon="24.6908">
+    <ele>2041</ele>
+    <name>YO/EC-041 Nyerges</name>
+    <cmt>YOFF-310</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.1333" lon="25.2875">
+    <ele>2032</ele>
+    <name>YO/EC-042 Kelemen-forrás</name>
+    <cmt>YOFF-002</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.5333" lon="24.6208">
+    <ele>2024</ele>
+    <name>YO/EC-043 Zab-tető</name>
+    <cmt>YOFF-310</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.0975" lon="25.2458">
+    <ele>2021</ele>
+    <name>YO/EC-044 Rekettyés</name>
+    <cmt>YOFF-002</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.1333" lon="25.0567">
+    <ele>1990</ele>
+    <name>YO/EC-045 Kis-Beszterce</name>
+    <cmt>YOFF-242</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.5233" lon="24.7925">
+    <ele>1987</ele>
+    <name>YO/EC-046 Korongyos</name>
+    <cmt>YOFF-310</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.5683" lon="24.8842">
+    <ele>1967</ele>
+    <name>YO/EC-047 Tomnatecul II</name>
+    <cmt>YOFF-310</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.9217" lon="24.4500">
+    <ele>1958</ele>
+    <name>YO/EC-048 Várkő</name>
+    <cmt>YOFF-023</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5217" lon="25.9265">
+    <ele>1954</ele>
+    <name>YO/EC-049 Csukás</name>
+    <cmt>YOFF-231</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.5058" lon="25.0925">
+    <ele>1932</ele>
+    <name>YO/EC-051 Emberfő</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.5058" lon="24.6625">
+    <ele>1931</ele>
+    <name>YO/EC-052 Laptelui</name>
+    <cmt>YOFF-310</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.4680" lon="25.6947">
+    <ele>1923</ele>
+    <name>YO/EC-053 Neamţului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.9058" lon="24.4650">
+    <ele>1918</ele>
+    <name>YO/EC-054 Mihăilecu</name>
+    <cmt>YOFF-023</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.9527" lon="25.9462">
+    <ele>1907</ele>
+    <name>YO/EC-055 Aklos</name>
+    <cmt>YOFF-003</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.1575" lon="25.1558">
+    <ele>1885</ele>
+    <name>YO/EC-056 Măieriş</name>
+    <cmt>YOFF-002</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.4899" lon="25.9753">
+    <ele>1883</ele>
+    <name>YO/EC-057 Gropşoare</name>
+    <cmt>YOFF-231</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.1225" lon="25.6750">
+    <ele>1859</ele>
+    <name>YO/EC-058 Budak</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.4775" lon="24.6833">
+    <ele>1857</ele>
+    <name>YO/EC-059 Nedeia Ţăranului</name>
+    <cmt>YOFF-310</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.7058" lon="24.8725">
+    <ele>1853</ele>
+    <name>YO/EC-060 Jupania</name>
+    <cmt>YOFF-023</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.8317" lon="24.6108">
+    <ele>1850</ele>
+    <name>YO/EC-061 Pietrosu Bardău</name>
+    <cmt>YOFF-023</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.6508" lon="24.8325">
+    <ele>1847</ele>
+    <name>YO/EC-062 Sárkány</name>
+    <cmt>YOFF-023</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.5175" lon="24.2683">
+    <ele>1840</ele>
+    <name>YO/EC-063 Bran</name>
+    <cmt>YOFF-445</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.3758" lon="25.5417">
+    <ele>1791</ele>
+    <name>YO/EC-065 Pietrosu</name>
+    <cmt>YOFF-380</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.4933" lon="24.6000">
+    <ele>1787</ele>
+    <name>YO/EC-066 Paltinului</name>
+    <cmt>YOFF-310</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.7969" lon="26.4175">
+    <ele>1785</ele>
+    <name>YO/EC-067 Gór-havas</name>
+    <cmt>YOFF-024</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.0850" lon="25.7492">
+    <ele>1760</ele>
+    <name>YO/EC-068 Grinţieşu</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.8233" lon="26.3758">
+    <ele>1777</ele>
+    <name>YO/EC-069 Lakóca</name>
+    <cmt>YOFF-024</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.7400" lon="25.8192">
+    <ele>1773</ele>
+    <name>YO/EC-070 Fekete-Hagymás</name>
+    <cmt>YOFF-004</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6028" lon="26.4169">
+    <ele>1772</ele>
+    <name>YO/EC-071 Pintyillő</name>
+    <cmt>YOFF-375</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.4062" lon="25.8646">
+    <ele>1768</ele>
+    <name>YO/EC-072 Grohotişul</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.7533" lon="24.7067">
+    <ele>1736</ele>
+    <name>YO/EC-074 Ţiganului</name>
+    <cmt>YOFF-023</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.2208" lon="25.6417">
+    <ele>1734</ele>
+    <name>YO/EC-075 Grinţeşu Mic</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.7575" lon="26.4433">
+    <ele>1721</ele>
+    <name>YO/EC-076 Giurgiu</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.4458" lon="25.2242">
+    <ele>1715</ele>
+    <name>YO/EC-077 Fáraó</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.6741" lon="25.8390">
+    <ele>1707</ele>
+    <name>YO/EC-078 Öcsém</name>
+    <cmt>YOFF-004</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.5825" lon="24.5008">
+    <ele>1703</ele>
+    <name>YO/EC-079 Kis-bérc</name>
+    <cmt>YOFF-445</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.3175" lon="25.5933">
+    <ele>1711</ele>
+    <name>YO/EC-080 Scăricica</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.6033" lon="25.4804">
+    <ele>1695</ele>
+    <name>YO/EC-081 Csomafalvi-Délhegy</name>
+    <cmt>YOFF-124</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.4583" lon="24.6117">
+    <ele>1692</ele>
+    <name>YO/EC-082 Scărişoara</name>
+    <cmt>YOFF-310</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.0942" lon="25.6275">
+    <ele>1690</ele>
+    <name>YO/EC-083 Muncelul</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.4470" lon="25.8900">
+    <ele>1685</ele>
+    <name>YO/EC-085 Faţa lui Gherghel</name>
+    <cmt>YOFF-231</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.8517" lon="25.2192">
+    <ele>1684</ele>
+    <name>YO/EC-086 Fancsal</name>
+    <cmt>YOFF-215</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.7858" lon="26.5092">
+    <ele>1676</ele>
+    <name>YO/EC-087 Pietrosu</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.8125" lon="25.7342">
+    <ele>1675</ele>
+    <name>YO/EC-088 Likas</name>
+    <cmt>YOFF-004</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.1783" lon="25.0608">
+    <ele>1670</ele>
+    <name>YO/EC-089 Buba</name>
+    <cmt>YOFF-242</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5062" lon="26.1280">
+    <ele>1662</ele>
+    <name>YO/EC-090 Mălâia</name>
+    <cmt>YOFF-410</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.6383" lon="25.0817">
+    <ele>1661</ele>
+    <name>YO/EC-091 Ţapul Mare</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.7342" lon="26.5650">
+    <ele>1657</ele>
+    <name>YO/EC-092 Zboina Frumoasă</name>
+    <cmt>YOFF-409</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5235" lon="26.1460">
+    <ele>1657</ele>
+    <name>YO/EC-093 Szilon-havas</name>
+    <cmt>YOFF-410</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.2560" lon="26.3238">
+    <ele>1649</ele>
+    <name>YO/EC-094 Nagy Nemere</name>
+    <cmt>YOFF-238</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.7175" lon="24.8325">
+    <ele>1644</ele>
+    <name>YO/EC-095 Prislopul Cataramei</name>
+    <cmt>YOFF-023</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.2117" lon="25.4425">
+    <ele>1644</ele>
+    <name>YO/EC-096 Călimănel</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.1993" lon="26.3394">
+    <ele>1640</ele>
+    <name>YO/EC-097 Nagy Sándor</name>
+    <cmt>YOFF-238</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.3833" lon="25.2575">
+    <ele>1639</ele>
+    <name>YO/EC-098 Tojás-hegy</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.8775" lon="26.5517">
+    <ele>1629</ele>
+    <name>YO/EC-099 Coza</name>
+    <cmt>YOFF-024</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.2308" lon="26.3250">
+    <ele>1627</ele>
+    <name>YO/EC-100 Kis Nemere</name>
+    <cmt>YOFF-238</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.4375" lon="24.5583">
+    <ele>1627</ele>
+    <name>YO/EC-101 Căldăruşi</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.7525" lon="25.7583">
+    <ele>1626</ele>
+    <name>YO/EC-102 Ló-havas</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.4467" lon="24.7208">
+    <ele>1625</ele>
+    <name>YO/EC-103 Muncelului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.3350" lon="25.5425">
+    <ele>1643</ele>
+    <name>YO/EC-104 Lespezi</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.5233" lon="25.0492">
+    <ele>1625</ele>
+    <name>YO/EC-105 Căturii</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.7983" lon="25.7350">
+    <ele>1624</ele>
+    <name>YO/EC-106 Kis-havas; Dancúrás</name>
+    <cmt>YOFF-004</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5287" lon="25.8803">
+    <ele>1613</ele>
+    <name>YO/EC-107 Tészla</name>
+    <cmt>YOFF-231</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.2775" lon="24.7358">
+    <ele>1611</ele>
+    <name>YO/EC-108 Nagy-Henye</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.5542" lon="24.1450">
+    <ele>1611</ele>
+    <name>YO/EC-109 Hunyadi-csúcs</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.2358" lon="24.8733">
+    <ele>1605</ele>
+    <name>YO/EC-110 Miroslava</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.8630" lon="26.3296">
+    <ele>1603</ele>
+    <name>YO/EC-111 Zernye</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.6408" lon="24.9950">
+    <ele>1612</ele>
+    <name>YO/EC-112 Nagy-Cimbora</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.6667" lon="24.7633">
+    <ele>1601</ele>
+    <name>YO/EC-113 Măgurii</name>
+    <cmt>YOFF-023</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.6075" lon="24.5717">
+    <ele>1599</ele>
+    <name>YO/EC-114 Felső-Magura</name>
+    <cmt>YOFF-310</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.7542" lon="24.5817">
+    <ele>1594</ele>
+    <name>YO/EC-115 Greben</name>
+    <cmt>YOFF-023</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.4825" lon="25.7842">
+    <ele>1592</ele>
+    <name>YO/EC-116 Şloeru Mărcoşanu</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.8025" lon="26.4658">
+    <ele>1592</ele>
+    <name>YO/EC-117 Păişaua Arsă</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.8558" lon="26.4442">
+    <ele>1590</ele>
+    <name>YO/EC-118 Zburătura</name>
+    <cmt>YOFF-024</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.1067" lon="24.8992">
+    <ele>1590</ele>
+    <name>YO/EC-119 Kofa-mező</name>
+    <cmt>YOFF-242</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.7108" lon="26.1292">
+    <ele>1589</ele>
+    <name>YO/EC-120 Ardelea</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.6883" lon="25.1592">
+    <ele>1588</ele>
+    <name>YO/EC-121 Lucina</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.0858" lon="25.5692">
+    <ele>1587</ele>
+    <name>YO/EC-122 Hărlagi</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.4657" lon="25.6288">
+    <ele>1586</ele>
+    <name>YO/EC-123 Clăbucetul Azuga</name>
+    <cmt>YOFF-015</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.2025" lon="24.9436">
+    <ele>1600</ele>
+    <name>YO/EC-124 Arşiţei</name>
+    <cmt>YOFF-242</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.1958" lon="25.0283">
+    <ele>1502</ele>
+    <name>YO/EC-125 Cornului</name>
+    <cmt>YOFF-242</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.6021" lon="25.3834">
+    <ele>1577</ele>
+    <name>YO/EC-126 Nagy-Somlyó</name>
+    <cmt>YOFF-124</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.5725" lon="24.9633">
+    <ele>1571</ele>
+    <name>YO/EC-127 Pleşcuţa</name>
+    <cmt>YOFF-310</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.7067" lon="26.0717">
+    <ele>1569</ele>
+    <name>YO/EC-128 Bálványos-tető</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.6962" lon="25.7000">
+    <ele>1568</ele>
+    <name>YO/EC-129 Sípos</name>
+    <cmt>YOFF-124</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.6783" lon="24.9542">
+    <ele>1583</ele>
+    <name>YO/EC-130 Silhoiu Mare</name>
+    <cmt>YOFF-023</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.6867" lon="25.0600">
+    <ele>1559</ele>
+    <name>YO/EC-131 Măgura</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.7817" lon="26.4642">
+    <ele>1594</ele>
+    <name>YO/EC-132 Căbălaşu</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.2182" lon="25.7614">
+    <ele>1557</ele>
+    <name>YO/EC-133 Kakukk-hegy</name>
+    <cmt>YOFF-280</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.6950" lon="26.0108">
+    <ele>1557</ele>
+    <name>YO/EC-134 Hosszú-havas</name>
+    <cmt>YOFF-459</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.6080" lon="25.9094">
+    <ele>1553</ele>
+    <name>YO/EC-135 Naskalat</name>
+    <cmt>YOFF-459</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.3400" lon="26.1808">
+    <ele>1553</ele>
+    <name>YO/EC-136 Saj-havas</name>
+    <cmt>YOFF-455</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.6133" lon="25.1525">
+    <ele>1549</ele>
+    <name>YO/EC-137 Bâtca Tătărcii</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.8458" lon="26.4933">
+    <ele>1548</ele>
+    <name>YO/EC-138 Bulboace</name>
+    <cmt>YOFF-024</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.0258" lon="25.8183">
+    <ele>1548</ele>
+    <name>YO/EC-139 Măgura</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.1949" lon="24.9646">
+    <ele>1547</ele>
+    <name>YO/EC-140 Dealul Ariilor</name>
+    <cmt>YOFF-242</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.7948" lon="25.6119">
+    <ele>1544</ele>
+    <name>YO/EC-141 Pricske</name>
+    <cmt>YOFF-124</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.2675" lon="24.7683">
+    <ele>1542</ele>
+    <name>YO/EC-142 Muncelul</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.6653" lon="25.7065">
+    <ele>1538</ele>
+    <name>YO/EC-143 Fekete-rez</name>
+    <cmt>YOFF-124</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.5817" lon="25.1742">
+    <ele>1523</ele>
+    <name>YO/EC-144 Dodu</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.4622" lon="25.5892">
+    <ele>1520</ele>
+    <name>YO/EC-145 Clăbucetul Taurului</name>
+    <cmt>YOFF-015</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.0042" lon="25.7525">
+    <ele>1518</ele>
+    <name>YO/EC-146 Komárnyik</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.5674" lon="26.0313">
+    <ele>1517</ele>
+    <name>YO/EC-147 Hegyes-havas</name>
+    <cmt>YOFF-459</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.4192" lon="26.2500">
+    <ele>1516</ele>
+    <name>YO/EC-148 Káronta</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.2600" lon="25.8125">
+    <ele>1513</ele>
+    <name>YO/EC-149 Bâtca Comorii</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.8043" lon="25.7780">
+    <ele>1504</ele>
+    <name>YO/EC-150 Nagy-Cohárd</name>
+    <cmt>YOFF-004</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.9469" lon="26.3912">
+    <ele>1503</ele>
+    <name>YO/EC-151 Musátó</name>
+    <cmt>YOFF-315</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.0958" lon="25.4050">
+    <ele>1503</ele>
+    <name>YO/EC-152 Măgura</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5490" lon="25.8903">
+    <ele>1529</ele>
+    <name>YO/EC-153 Donghavas</name>
+    <cmt>YOFF-231</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.6392" lon="25.3158">
+    <ele>1496</ele>
+    <name>YO/EC-154 Borzont-fő</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.4245" lon="26.0064">
+    <ele>1494</ele>
+    <name>YO/EC-155 Szellő</name>
+    <cmt>YOFF-459</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.7183" lon="25.2850">
+    <ele>1494</ele>
+    <name>YO/EC-156 Veju Mare</name>
+    <cmt>YOFF-173</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.8433" lon="26.0808">
+    <ele>1493</ele>
+    <name>YO/EC-157 Măgura Tarcău</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.9075" lon="25.5600">
+    <ele>1491</ele>
+    <name>YO/EC-158 Nagy-közrez</name>
+    <cmt>YOFF-124</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.7700" lon="25.7542">
+    <ele>1489</ele>
+    <name>YO/EC-159 Ló-havas sarka</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.5792" lon="25.0300">
+    <ele>1489</ele>
+    <name>YO/EC-160 Bretila</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.1192" lon="24.9858">
+    <ele>1506</ele>
+    <name>YO/EC-161 Chicera lui Pasăre</name>
+    <cmt>YOFF-242</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.1142" lon="25.4100">
+    <ele>1486</ele>
+    <name>YO/EC-162 Păltiniş</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.8675" lon="25.8250">
+    <ele>1482</ele>
+    <name>YO/EC-163 Zsedán-tető</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.9017" lon="25.2008">
+    <ele>1480</ele>
+    <name>YO/EC-164 Nagy-Erdős</name>
+    <cmt>YOFF-215</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6398" lon="26.3280">
+    <ele>1479</ele>
+    <name>YO/EC-165 Nagy-Hosszú-havas</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.5533" lon="24.1733">
+    <ele>1479</ele>
+    <name>YO/EC-166 Hudieş</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.6542" lon="25.3917">
+    <ele>1479</ele>
+    <name>YO/EC-167 Paşcani</name>
+    <cmt>YOFF-454</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.4853" lon="26.0655">
+    <ele>1476</ele>
+    <name>YO/EC-168 Tatár-havas</name>
+    <cmt>YOFF-231</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.3681" lon="25.6688">
+    <ele>1477</ele>
+    <name>YO/EC-169 Bâtca Oblânc</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.4192" lon="26.0400">
+    <ele>1503</ele>
+    <name>YO/EC-170 Vârful lui Crai</name>
+    <cmt>YOFF-231</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.5450" lon="25.2258">
+    <ele>1472</ele>
+    <name>YO/EC-171 Botoşul Mare</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3567" lon="25.8675">
+    <ele>1473</ele>
+    <name>YO/EC-172 Nebununul Mare</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3867" lon="25.9858">
+    <ele>1460</ele>
+    <name>YO/EC-173 Clăbucet</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.3942" lon="24.8842">
+    <ele>1457</ele>
+    <name>YO/EC-174 Cornii</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.2867" lon="26.1826">
+    <ele>1456</ele>
+    <name>YO/EC-175 Káposztás-havas</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.6683" lon="25.2250">
+    <ele>1455</ele>
+    <name>YO/EC-176 Găina</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.7508" lon="26.1167">
+    <ele>1454</ele>
+    <name>YO/EC-177 Măieruş</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.4147" lon="26.1896">
+    <ele>1451</ele>
+    <name>YO/EC-178 Keresztes</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.7642" lon="25.9867">
+    <ele>1449</ele>
+    <name>YO/EC-179 Király-kút</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.1350" lon="25.4758">
+    <ele>1448</ele>
+    <name>YO/EC-180 Alunişul Mare</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.6817" lon="25.2042">
+    <ele>1447</ele>
+    <name>YO/EC-181 Ştârbu</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.6417" lon="25.9140">
+    <ele>1444</ele>
+    <name>YO/EC-182 Jávárdi-tető</name>
+    <cmt>YOFF-459</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.6500" lon="26.3008">
+    <ele>1442</ele>
+    <name>YO/EC-183 Cracu Geamăna</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5284" lon="26.3569">
+    <ele>1439</ele>
+    <name>YO/EC-184 Ló-havas</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.2525" lon="25.9342">
+    <ele>1535</ele>
+    <name>YO/EC-185 Bivolul</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.5592" lon="24.4883">
+    <ele>1474</ele>
+    <name>YO/EC-186 Ţiflei</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.4308" lon="25.0333">
+    <ele>1430</ele>
+    <name>YO/EC-187 Perşa</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.7342" lon="25.7080">
+    <ele>1418</ele>
+    <name>YO/EC-188 Magas-bükk</name>
+    <cmt>YOFF-124</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6358" lon="26.6233">
+    <ele>1415</ele>
+    <name>YO/EC-189 Furu Mare</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.7309" lon="26.3408">
+    <ele>1413</ele>
+    <name>YO/EC-190 Ménes-bérc</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.7233" lon="25.2450">
+    <ele>1407</ele>
+    <name>YO/EC-191 Hrebeni</name>
+    <cmt>YOFF-173</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.3991" lon="26.0046">
+    <ele>1418</ele>
+    <name>YO/EC-192 Középső-Tomot</name>
+    <cmt>YOFF-459</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.8367" lon="26.5900">
+    <ele>1395</ele>
+    <name>YO/EC-193 Colocani</name>
+    <cmt>YOFF-024</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.9899" lon="26.4380">
+    <ele>1390</ele>
+    <name>YO/EC-194 Lipse-tető</name>
+    <cmt>YOFF-315</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.8458" lon="25.8433">
+    <ele>1385</ele>
+    <name>YO/EC-195 Súgó-kő</name>
+    <cmt>YOFF-226</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.0258" lon="25.6875">
+    <ele>1384</ele>
+    <name>YO/EC-196 Égett-Butka</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.4025" lon="25.6167">
+    <ele>1383</ele>
+    <name>YO/EC-197 Văcăria</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.0975" lon="25.8850">
+    <ele>1382</ele>
+    <name>YO/EC-198 Hurduga</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.3542" lon="25.7575">
+    <ele>1382</ele>
+    <name>YO/EC-199 Ostrei</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.0233" lon="26.5400">
+    <ele>1381</ele>
+    <name>YO/EC-200 Piatra Tâlharului</name>
+    <cmt>YOFF-024</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.3200" lon="25.7433">
+    <ele>1380</ele>
+    <name>YO/EC-201 Bâtca Nedeii</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.5233" lon="25.2575">
+    <ele>1380</ele>
+    <name>YO/EC-202 Oraţa</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.6433" lon="25.4575">
+    <ele>1379</ele>
+    <name>YO/EC-203 Ioreşti</name>
+    <cmt>YOFF-454</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.4149" lon="26.1071">
+    <ele>1378</ele>
+    <name>YO/EC-204 Nagy-Borda</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.3722" lon="26.0892">
+    <ele>1377</ele>
+    <name>YO/EC-205 Ágas-csúcs</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.0275" lon="25.5800">
+    <ele>1377</ele>
+    <name>YO/EC-206 Nagy-Mezővész</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.2975" lon="26.2500">
+    <ele>1375</ele>
+    <name>YO/EC-207 Baska bérce</name>
+    <cmt>YOFF-455</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.1535" lon="25.8215">
+    <ele>1374</ele>
+    <name>YO/EC-208 Nagy Piliske</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.3800" lon="26.2633">
+    <ele>1372</ele>
+    <name>YO/EC-209 Magyarós</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.8975" lon="24.2175">
+    <ele>1369</ele>
+    <name>YO/EC-210 Havaska-tető</name>
+    <cmt>YOFF-023</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.7625" lon="25.3450">
+    <ele>1368</ele>
+    <name>YO/EC-211 Bakta-hegy</name>
+    <cmt>YOFF-124</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.4067" lon="24.6092">
+    <ele>1368</ele>
+    <name>YO/EC-212 Măgura Sângeorz</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.4725" lon="24.5417">
+    <ele>1368</ele>
+    <name>YO/EC-213 Picioru Negru</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5708" lon="26.5833">
+    <ele>1365</ele>
+    <name>YO/EC-214 Cerdac</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.2883" lon="24.8333">
+    <ele>1362</ele>
+    <name>YO/EC-215 Dealul Bârgău</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.6600" lon="24.0417">
+    <ele>1358</ele>
+    <name>YO/EC-216 Fenyves tető</name>
+    <cmt>YOFF-489</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.8833" lon="25.6092">
+    <ele>1357</ele>
+    <name>YO/EC-217 Magas-bükk</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.4731" lon="25.9010">
+    <ele>1351</ele>
+    <name>YO/EC-218 Pogány-havas</name>
+    <cmt>YOFF-459</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.2342" lon="24.9442">
+    <ele>1346</ele>
+    <name>YO/EC-219 Dosul Zâmbroaiei</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.4645" lon="26.2113">
+    <ele>1344</ele>
+    <name>YO/EC-220 Monteoru</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.9217" lon="25.8408">
+    <ele>1343</ele>
+    <name>YO/EC-221 Kis-cser</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.5217" lon="26.3075">
+    <ele>1343</ele>
+    <name>YO/EC-222 Aluniş</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.3100" lon="25.7983">
+    <ele>1340</ele>
+    <name>YO/EC-223 Băişescu</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.9017" lon="25.9358">
+    <ele>1339</ele>
+    <name>YO/EC-224 Vârful Verde</name>
+    <cmt>YOFF-003</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.3708" lon="26.3358">
+    <ele>1337</ele>
+    <name>YO/EC-225 Lápos bérce</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.7808" lon="25.2233">
+    <ele>1336</ele>
+    <name>YO/EC-226 Arşiţa</name>
+    <cmt>YOFF-173</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.4158" lon="25.3575">
+    <ele>1334</ele>
+    <name>YO/EC-227 Oala</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.1725" lon="25.9383">
+    <ele>1328</ele>
+    <name>YO/EC-228 Baicu</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.8353" lon="26.0027">
+    <ele>1322</ele>
+    <name>YO/EC-229 Smida Floarei</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.3250" lon="24.8725">
+    <ele>1321</ele>
+    <name>YO/EC-230 Măgura Neagră</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.7927" lon="26.2240">
+    <ele>1320</ele>
+    <name>YO/EC-231 Papolci-köz</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2817" lon="25.8033">
+    <ele>1317</ele>
+    <name>YO/EC-232 Păltinet</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.6675" lon="23.9974">
+    <ele>1332</ele>
+    <name>YO/EC-233 Prislop</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.7483" lon="25.1575">
+    <ele>1282</ele>
+    <name>YO/EC-234 Rosohata</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.7325" lon="23.6733">
+    <ele>1307</ele>
+    <name>YO/EC-235 Rozsály</name>
+    <cmt>YOFF-521</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.5458" lon="25.4625">
+    <ele>1302</ele>
+    <name>YO/EC-236 Muncelu</name>
+    <cmt>YOFF-173</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.5617" lon="25.5983">
+    <ele>1302</ele>
+    <name>YO/EC-237 Tomnatec</name>
+    <cmt>YOFF-454</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.6229" lon="25.9907">
+    <ele>1298</ele>
+    <name>YO/EC-238 Orodik havasa</name>
+    <cmt>YOFF-459</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.2858" lon="24.8067">
+    <ele>1294</ele>
+    <name>YO/EC-239 Erboasa</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.7992" lon="26.2283">
+    <ele>1293</ele>
+    <name>YO/EC-240 Murgoci</name>
+    <cmt>YOFF-341</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5105" lon="25.5400">
+    <ele>1292</ele>
+    <name>YO/EC-241 Leányka-havas</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.3212" lon="25.7156">
+    <ele>1292</ele>
+    <name>YO/EC-242 Talabor</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.8117" lon="23.7117">
+    <ele>1292</ele>
+    <name>YO/EC-243 Nagy-Peleske</name>
+    <cmt>YOFF-281</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.6874" lon="24.6227">
+    <ele>1289</ele>
+    <name>YO/EC-244 Bâjna</name>
+    <cmt>YOFF-023</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6222" lon="26.2175">
+    <ele>1287</ele>
+    <name>YO/EC-245 Nagy-Bóta</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.7758" lon="26.0533">
+    <ele>1282</ele>
+    <name>YO/EC-246 Bâtca Răchiţei</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5200" lon="25.4675">
+    <ele>1281</ele>
+    <name>YO/EC-247 Runk-havas</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.9274" lon="26.5328">
+    <ele>1280</ele>
+    <name>YO/EC-248 Tisarul Mic</name>
+    <cmt>YOFF-024</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.2233" lon="25.0658">
+    <ele>1275</ele>
+    <name>YO/EC-249 Dorna</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.2742" lon="24.8550">
+    <ele>1266</ele>
+    <name>YO/EC-250 Bondariului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.8002" lon="25.8085">
+    <ele>1264</ele>
+    <name>YO/EC-251 Csíki Bükk</name>
+    <cmt>YOFF-004</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5057" lon="25.4991">
+    <ele>1258</ele>
+    <name>YO/EC-252 Piatra Arsă</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.7967" lon="26.1017">
+    <ele>1258</ele>
+    <name>YO/EC-253 Sihla</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.4092" lon="25.1742">
+    <ele>1256</ele>
+    <name>YO/EC-254 Măgura Coşnei</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.5917" lon="24.2133">
+    <ele>1254</ele>
+    <name>YO/EC-255 Stânişoarelor</name>
+    <cmt>YOFF-445</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.7875" lon="23.6908">
+    <ele>1253</ele>
+    <name>YO/EC-256 Breze</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.4833" lon="26.1506">
+    <ele>1251</ele>
+    <name>YO/EC-257 Kotumba</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.7967" lon="23.5242">
+    <ele>1201</ele>
+    <name>YO/EC-258 Kisköves</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.6575" lon="23.7875">
+    <ele>1246</ele>
+    <name>YO/EC-259 Fekete hegy</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.9225" lon="25.9983">
+    <ele>1245</ele>
+    <name>YO/EC-260 Vârful Secuiesc</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.8517" lon="23.6442">
+    <ele>1245</ele>
+    <name>YO/EC-261 Culmea Rotundă</name>
+    <cmt>YOFF-281</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.8333" lon="25.3350">
+    <ele>1244</ele>
+    <name>YO/EC-262 Ehreşte</name>
+    <cmt>YOFF-173</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.0839" lon="25.9353">
+    <ele>1240</ele>
+    <name>YO/EC-263 Kőmöge</name>
+    <cmt>YOFF-230</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.5000" lon="24.9742">
+    <ele>1231</ele>
+    <name>YO/EC-264 Culmea Crucilor</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.0558" lon="26.1308">
+    <ele>1231</ele>
+    <name>YO/EC-265 Buhalniţa</name>
+    <cmt>YOFF-018</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.5592" lon="25.4175">
+    <ele>1227</ele>
+    <name>YO/EC-266 Răchitiş</name>
+    <cmt>YOFF-173</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.5713" lon="25.3789">
+    <ele>1230</ele>
+    <name>YO/EC-267 Bobeica</name>
+    <cmt>YOFF-173</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.0183" lon="26.3675">
+    <ele>1226</ele>
+    <name>YO/EC-268 Fekete-hegy</name>
+    <cmt>YOFF-315</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.3192" lon="24.9408">
+    <ele>1226</ele>
+    <name>YO/EC-269 Păltâneasa</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.8108" lon="25.4592">
+    <ele>1224</ele>
+    <name>YO/EC-270 Sihloaia</name>
+    <cmt>YOFF-454</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.7093" lon="25.9134">
+    <ele>1223</ele>
+    <name>YO/EC-271 Piliske</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.8558" lon="23.7833">
+    <ele>1232</ele>
+    <name>YO/EC-272 Vârful Negru</name>
+    <cmt>YOFF-281</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.6867" lon="25.6908">
+    <ele>1222</ele>
+    <name>YO/EC-273 Scoruşeţ</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.7725" lon="25.3617">
+    <ele>1222</ele>
+    <name>YO/EC-274 Sergieva</name>
+    <cmt>YOFF-454</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.9556" lon="26.4680">
+    <ele>1221</ele>
+    <name>YO/EC-275 Mészták-tető</name>
+    <cmt>YOFF-024</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.5942" lon="24.1150">
+    <ele>1221</ele>
+    <name>YO/EC-276 Măgura Porcului</name>
+    <cmt>YOFF-445</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.7925" lon="24.3825">
+    <ele>1220</ele>
+    <name>YO/EC-277 Maxim</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.1783" lon="25.9908">
+    <ele>1217</ele>
+    <name>YO/EC-278 Munţişoru</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.2583" lon="24.9683">
+    <ele>1215</ele>
+    <name>YO/EC-279 Tăşuleasa</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.1675" lon="26.1750">
+    <ele>1214</ele>
+    <name>YO/EC-280 Gombás-bérc</name>
+    <cmt>YOFF-422</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.0362" lon="25.9175">
+    <ele>1217</ele>
+    <name>YO/EC-281 Bojtorjános</name>
+    <cmt>YOFF-169</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.0192" lon="26.1475">
+    <ele>1213</ele>
+    <name>YO/EC-282 Prislopaşu</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.3208" lon="25.9675">
+    <ele>1209</ele>
+    <name>YO/EC-283 Măgura</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.6967" lon="24.6817">
+    <ele>1212</ele>
+    <name>YO/EC-284 Hâga</name>
+    <cmt>YOFF-023</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.4650" lon="26.1158">
+    <ele>1202</ele>
+    <name>YO/EC-285 Gâlma</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.7292" lon="24.5283">
+    <ele>1201</ele>
+    <name>YO/EC-286 Prislopaşu</name>
+    <cmt>YOFF-023</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.4425" lon="24.7858">
+    <ele>1201</ele>
+    <name>YO/EC-287 Fântânele</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6008" lon="25.8752">
+    <ele>1221</ele>
+    <name>YO/EC-288 Csiklom</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.4208" lon="24.4533">
+    <ele>1194</ele>
+    <name>YO/EC-289 Măgurii</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.9256" lon="26.3233">
+    <ele>1215</ele>
+    <name>YO/EC-290 Baric</name>
+    <cmt>YOFF-315</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.4892" lon="26.4892">
+    <ele>1191</ele>
+    <name>YO/EC-291 Ivăneţu</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.2625" lon="26.3767">
+    <ele>1185</ele>
+    <name>YO/EC-292 Plaiul Ciungetului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.5925" lon="24.3758">
+    <ele>1181</ele>
+    <name>YO/EC-293 Ştefăniţei</name>
+    <cmt>YOFF-445</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.8458" lon="23.7258">
+    <ele>1179</ele>
+    <name>YO/EC-294 Vârful Brazilor</name>
+    <cmt>YOFF-281</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.9833" lon="25.6250">
+    <ele>1178</ele>
+    <name>YO/EC-295 Holló-tető</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.1400" lon="26.1650">
+    <ele>1178</ele>
+    <name>YO/EC-296 Dealul Mare Sihlea</name>
+    <cmt>YOFF-018</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.5252" lon="25.5240">
+    <ele>1176</ele>
+    <name>YO/EC-297 Măgura Runcului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.5142" lon="24.4375">
+    <ele>1175</ele>
+    <name>YO/EC-298 Hoitu</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.2193" lon="26.2391">
+    <ele>1174</ele>
+    <name>YO/EC-299 Bordóca tető</name>
+    <cmt>YOFF-422</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.1342" lon="25.9825">
+    <ele>1173</ele>
+    <name>YO/EC-300 Cecele</name>
+    <cmt>YOFF-230</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.4008" lon="24.7875">
+    <ele>1190</ele>
+    <name>YO/EC-301 Măgura Mare</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.6267" lon="24.1033">
+    <ele>1167</ele>
+    <name>YO/EC-302 Runcaşului</name>
+    <cmt>YOFF-489</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.1133" lon="26.5925">
+    <ele>1165</ele>
+    <name>YO/EC-303 Măgura Caşin</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.4717" lon="25.6400">
+    <ele>1163</ele>
+    <name>YO/EC-304 Vârful Mare</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.9717" lon="25.2450">
+    <ele>1162</ele>
+    <name>YO/EC-305 Leó</name>
+    <cmt>YOFF-026</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.4408" lon="25.6742">
+    <ele>1162</ele>
+    <name>YO/EC-306 Diacu</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.0608" lon="26.2442">
+    <ele>1162</ele>
+    <name>YO/EC-307 Măgura Gârcina</name>
+    <cmt>YOFF-018</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.039" lon="25.523">
+    <ele>1159</ele>
+    <name>YO/EC-308 Nagy-Rakottyás</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.1810" lon="24.8616">
+    <ele>1158</ele>
+    <name>YO/EC-309 Dealul Pietrei</name>
+    <cmt>YOFF-242</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.8625" lon="25.5175">
+    <ele>1158</ele>
+    <name>YO/EC-310 Măgura Vacii</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.6026" lon="25.6672">
+    <ele>1153</ele>
+    <name>YO/EC-311 Csíkmagasa</name>
+    <cmt>YOFF-124</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2765" lon="25.7087">
+    <ele>1149</ele>
+    <name>YO/EC-312 Secăria</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.4958" lon="25.7325">
+    <ele>1146</ele>
+    <name>YO/EC-313 Măgura Sărată</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.7633" lon="23.7408">
+    <ele>1142</ele>
+    <name>YO/EC-314 Prislopul</name>
+    <cmt>YOFF-281</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.9475" lon="26.6148">
+    <ele>1140</ele>
+    <name>YO/EC-315 Locoţeilor</name>
+    <cmt>YOFF-024</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.5525" lon="24.3983">
+    <ele>1140</ele>
+    <name>YO/EC-316 Măgura Săbii</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.4158" lon="24.4983">
+    <ele>1140</ele>
+    <name>YO/EC-317 Capului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.5202" lon="25.5400">
+    <ele>1129</ele>
+    <name>YO/EC-318 Runcul</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.8675" lon="25.2725">
+    <ele>1128</ele>
+    <name>YO/EC-319 Coştileva</name>
+    <cmt>YOFF-173</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.9200" lon="26.0492">
+    <ele>1162</ele>
+    <name>YO/EC-320 Sima</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.6283" lon="24.2925">
+    <ele>1119</ele>
+    <name>YO/EC-321 Pintenu</name>
+    <cmt>YOFF-445</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.3833" lon="24.8175">
+    <ele>1118</ele>
+    <name>YO/EC-322 Măgura lui Arsente</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.6117" lon="24.0817">
+    <ele>1118</ele>
+    <name>YO/EC-323 Obcina Grindei</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.4300" lon="26.4117">
+    <ele>1114</ele>
+    <name>YO/EC-324 Zboiu</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6633" lon="26.1735">
+    <ele>1187</ele>
+    <name>YO/EC-325 Korongos</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.8600" lon="25.4383">
+    <ele>1104</ele>
+    <name>YO/EC-326 Várhegy</name>
+    <cmt>YOFF-322</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5893" lon="25.7889">
+    <ele>1101</ele>
+    <name>YO/EC-327 Esztere-bérc</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6084" lon="26.1040">
+    <ele>1091</ele>
+    <name>YO/EC-328 Fekete-hegy</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.9533" lon="23.5700">
+    <ele>1091</ele>
+    <name>YO/EC-329 Muntele Bradului</name>
+    <cmt>YOFF-548</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.5258" lon="25.6783">
+    <ele>1086</ele>
+    <name>YO/EC-330 Hăşnăş</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5958" lon="25.5158">
+    <ele>1085</ele>
+    <name>YO/EC-331 Hosszú-hát</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.3850" lon="25.8058">
+    <ele>1082</ele>
+    <name>YO/EC-332 Iepii</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3575" lon="26.0858">
+    <ele>1081</ele>
+    <name>YO/EC-333 Ţiganului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.6136" lon="24.9609">
+    <ele>1080</ele>
+    <name>YO/EC-334 Bekecs-tető</name>
+    <cmt>YOFF-478</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3892" lon="26.1592">
+    <ele>1077</ele>
+    <name>YO/EC-335 Pleşii</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.5090" lon="25.5639">
+    <ele>1073</ele>
+    <name>YO/EC-336 Bodea</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.7183" lon="25.9825">
+    <ele>1072</ele>
+    <name>YO/EC-337 Cârlanului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.4425" lon="25.8375">
+    <ele>1066</ele>
+    <name>YO/EC-338 Clădita Mare</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6013" lon="25.7019">
+    <ele>1058</ele>
+    <name>YO/EC-340 Hegyes-hegy</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.4242" lon="24.9183">
+    <ele>1057</ele>
+    <name>YO/EC-341 Măgura</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.6533" lon="25.6650">
+    <ele>1054</ele>
+    <name>YO/EC-342 Măcriş</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.2100" lon="26.1158">
+    <ele>1054</ele>
+    <name>YO/EC-343 Măgura Domesnic</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.4415" lon="25.1475">
+    <ele>1062</ele>
+    <name>YO/EC-344 Firtos-hegy</name>
+    <cmt>YOFF-122</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.5592" lon="23.8500">
+    <ele>1049</ele>
+    <name>YO/EC-345 Sátor-hegy</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.2275" lon="26.4258">
+    <ele>1047</ele>
+    <name>YO/EC-346 Kecskés bérc</name>
+    <cmt>YOFF-411</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.9667" lon="25.3092">
+    <ele>1056</ele>
+    <name>YO/EC-347 Tárnyica</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.6783" lon="24.4225">
+    <ele>1038</ele>
+    <name>YO/EC-348 Vârful lui Dan</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.3728" lon="25.8425">
+    <ele>1033</ele>
+    <name>YO/EC-349 Nagy-Somlyó</name>
+    <cmt>YOFF-459</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.0058" lon="26.2175">
+    <ele>1033</ele>
+    <name>YO/EC-350 Vârful Mare</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.1242" lon="26.4992">
+    <ele>1111</ele>
+    <name>YO/EC-351 Piatra Runcului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.3708" lon="24.7117">
+    <ele>1032</ele>
+    <name>YO/EC-352 Bucnitori</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.5324" lon="25.0602">
+    <ele>1028</ele>
+    <name>YO/EC-353 Siklód-kő</name>
+    <cmt>YOFF-478</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.0774" lon="25.8009">
+    <ele>1015</ele>
+    <name>YO/EC-355 Nagy Murgó</name>
+    <cmt>YOFF-169</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.9175" lon="26.1258">
+    <ele>1015</ele>
+    <name>YO/EC-356 Cozmiţa</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.1925" lon="26.4608">
+    <ele>1015</ele>
+    <name>YO/EC-357 Jáhoros tető</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.5283" lon="25.7433">
+    <ele>1014</ele>
+    <name>YO/EC-358 Ascuţita Mare</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.7925" lon="23.4567">
+    <ele>1012</ele>
+    <name>YO/EC-359 Mike-csúcs</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.3617" lon="26.0192">
+    <ele>1008</ele>
+    <name>YO/EC-360 Bursunarul</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.2064" lon="25.4998">
+    <ele>1011</ele>
+    <name>YO/EC-361 Merke-tető</name>
+    <cmt>YOFF-121</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.8567" lon="26.9500">
+    <ele>996</ele>
+    <name>YO/EC-362 Măgura Odobeşti</name>
+    <cmt>YOFF-163</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.8598" lon="25.3189">
+    <ele>993</ele>
+    <name>YO/EC-363 Gârbova</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.4792" lon="24.9633">
+    <ele>990</ele>
+    <name>YO/EC-364 Chicera Frăsinului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.3608" lon="26.6075">
+    <ele>992</ele>
+    <name>YO/EC-365 Măgura Berzunţi</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.1150" lon="26.5408">
+    <ele>981</ele>
+    <name>YO/EC-366 Măguricea</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6548" lon="25.3671">
+    <ele>980</ele>
+    <name>YO/EC-367 Hoapecu</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.4067" lon="26.5592">
+    <ele>978</ele>
+    <name>YO/EC-368 Bulimandru</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6940" lon="25.2747">
+    <ele>975</ele>
+    <name>YO/EC-369 Ciuta</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.8992" lon="23.5933">
+    <ele>978</ele>
+    <name>YO/EC-370 Tribşoru</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.3617" lon="24.0325">
+    <ele>974</ele>
+    <name>YO/EC-371 Breaza</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.7075" lon="24.0792">
+    <ele>972</ele>
+    <name>YO/EC-372 Măgura Glodului</name>
+    <cmt>YOFF-445</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.5944" lon="26.4535">
+    <ele>976</ele>
+    <name>YO/EC-373 Stogul de Piatră</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.9970" lon="25.4961">
+    <ele>967</ele>
+    <name>YO/EC-374 Nagy Fekete-hegy</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3683" lon="26.2675">
+    <ele>988</ele>
+    <name>YO/EC-375 Manta</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.1342" lon="26.2375">
+    <ele>1018</ele>
+    <name>YO/EC-376 Dealul Mare</name>
+    <cmt>YOFF-018</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.8583" lon="24.2308">
+    <ele>948</ele>
+    <name>YO/EC-377 Olohii</name>
+    <cmt>YOFF-023</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.9242" lon="24.0867">
+    <ele>945</ele>
+    <name>YO/EC-378 Hajas-tető</name>
+    <cmt>YOFF-432</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6167" lon="26.7908">
+    <ele>944</ele>
+    <name>YO/EC-379 Dealul Roşu</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.6467" lon="25.5375">
+    <ele>949</ele>
+    <name>YO/EC-380 Runcul Boului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.9242" lon="25.4498">
+    <ele>941</ele>
+    <name>YO/EC-381 Magas-bérc</name>
+    <cmt>YOFF-322</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.3717" lon="24.7733">
+    <ele>940</ele>
+    <name>YO/EC-382 Măgura Sturzilor</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.8758" lon="24.1200">
+    <ele>939</ele>
+    <name>YO/EC-383 Judeleva</name>
+    <cmt>YOFF-432</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.7242" lon="25.7700">
+    <ele>986</ele>
+    <name>YO/EC-384 Dealul Vulturul</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.3210" lon="25.1669">
+    <ele>932</ele>
+    <name>YO/EC-385 Réz-tető</name>
+    <cmt>YOFF-547</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.7544" lon="25.9046">
+    <ele>942</ele>
+    <name>YO/EC-386 Köves-ponk</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.2992" lon="26.2033">
+    <ele>911</ele>
+    <name>YO/EC-387 Pleşu</name>
+    <cmt>YOFF-018</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.4683" lon="25.7833">
+    <ele>910</ele>
+    <name>YO/EC-388 Ghirileu</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.7417" lon="23.5550">
+    <ele>900</ele>
+    <name>YO/EC-389 Ulmoasa</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.8742" lon="24.1575">
+    <ele>893</ele>
+    <name>YO/EC-390 Măgura Arşiţa</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.1883" lon="26.2358">
+    <ele>893</ele>
+    <name>YO/EC-391 Muncelul Agapia</name>
+    <cmt>YOFF-018</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.9975" lon="26.7142">
+    <ele>917</ele>
+    <name>YO/EC-392 Răchitaşul Mare</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.3992" lon="24.3425">
+    <ele>890</ele>
+    <name>YO/EC-393 Măgura Herbului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.4617" lon="25.9517">
+    <ele>882</ele>
+    <name>YO/EC-394 Dealul Mare</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.5283" lon="26.4933">
+    <ele>880</ele>
+    <name>YO/EC-395 Piatra Crăpată</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.7425" lon="26.4208">
+    <ele>880</ele>
+    <name>YO/EC-396 Sârghinel</name>
+    <cmt>YOFF-525</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.0425" lon="26.2942">
+    <ele>889</ele>
+    <name>YO/EC-397 Cota 889</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.7008" lon="26.4458">
+    <ele>875</ele>
+    <name>YO/EC-398 Măgura Mare</name>
+    <cmt>YOFF-525</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.2492" lon="26.4742">
+    <ele>875</ele>
+    <name>YO/EC-399 Pravila</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.9216" lon="25.2907">
+    <ele>873</ele>
+    <name>YO/EC-400 Măgura Pleaşa</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.8200" lon="26.3333">
+    <ele>864</ele>
+    <name>YO/EC-401 Zburătoarea</name>
+    <cmt>YOFF-341</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.7267" lon="24.2867">
+    <ele>858</ele>
+    <name>YO/EC-402 Rascului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.2255" lon="25.3397">
+    <ele>855</ele>
+    <name>YO/EC-403 Bágyi Várhegy</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.8983" lon="26.3592">
+    <ele>852</ele>
+    <name>YO/EC-404 Cernegura</name>
+    <cmt>YOFF-341</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.3358" lon="24.0817">
+    <ele>850</ele>
+    <name>YO/EC-405 Măgura Breaza</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.9492" lon="26.7525">
+    <ele>862</ele>
+    <name>YO/EC-406 Ghergheleu</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.0948" lon="25.4228">
+    <ele>846</ele>
+    <name>YO/EC-407 Kútpataka-feje</name>
+    <cmt>YOFF-121</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.8217" lon="26.3742">
+    <ele>841</ele>
+    <name>YO/EC-408 Doşetul</name>
+    <cmt>YOFF-341</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.7042" lon="23.5950">
+    <ele>839</ele>
+    <name>YO/EC-409 Strâmba</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2867" lon="26.3025">
+    <ele>827</ele>
+    <name>YO/EC-410 Cornetului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.7292" lon="23.5792">
+    <ele>825</ele>
+    <name>YO/EC-411 Cocoşului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.9867" lon="23.4183">
+    <ele>824</ele>
+    <name>YO/EC-412 Piatra Vâscului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.0332" lon="25.6310">
+    <ele>820</ele>
+    <name>YO/EC-413 Bükkfej</name>
+    <cmt>YOFF-169</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3483" lon="26.4067">
+    <ele>819</ele>
+    <name>YO/EC-414 Blidişel</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.2750" lon="26.4792">
+    <ele>816</ele>
+    <name>YO/EC-415 Nineasa</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.4833" lon="23.7042">
+    <ele>811</ele>
+    <name>YO/EC-416 Dealul Florii</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.4767" lon="23.7350">
+    <ele>795</ele>
+    <name>YO/EC-417 Măgureni</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.9900" lon="23.5850">
+    <ele>758</ele>
+    <name>YO/EC-418 Nereşenu Mare</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.6808" lon="24.3383">
+    <ele>784</ele>
+    <name>YO/EC-419 Cetăţelu</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.3875" lon="23.7383">
+    <ele>777</ele>
+    <name>YO/EC-420 Dealul Vimei</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.0942" lon="26.7775">
+    <ele>793</ele>
+    <name>YO/EC-421 Cârlanului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.1201" lon="26.5430">
+    <ele>749</ele>
+    <name>YO/EC-422 Istriţa</name>
+    <cmt>YOFF-248</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.3283" lon="26.8375">
+    <ele>740</ele>
+    <name>YO/EC-423 Capăta Vest</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.8308" lon="24.1500">
+    <ele>728</ele>
+    <name>YO/EC-424 Higi</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.8492" lon="24.0242">
+    <ele>730</ele>
+    <name>YO/EC-425 Săgeţii</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.7845" lon="25.9084">
+    <ele>783</ele>
+    <name>YO/EC-426 Csere-tető, Lármafa-tető</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2117" lon="26.3183">
+    <ele>716</ele>
+    <name>YO/EC-427 Salcia</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.7232" lon="25.6571">
+    <ele>703</ele>
+    <name>YO/EC-428 Lempes</name>
+    <cmt>YOFF-246</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="48.0458" lon="23.2917">
+    <ele>693</ele>
+    <name>YO/EC-429 Holmul Mare</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.2783" lon="24.3617">
+    <ele>685</ele>
+    <name>YO/EC-431 La Mese</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.9662" lon="26.3572">
+    <ele>679</ele>
+    <name>YO/EC-432 Cozla / Trei Căldări</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.9633" lon="23.2608">
+    <ele>664</ele>
+    <name>YO/EC-433 Frasinu Mare</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.4167" lon="23.3542">
+    <ele>660</ele>
+    <name>YO/EC-434 Dealul Mare</name>
+    <cmt>YOFF-505</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.3925" lon="23.4117">
+    <ele>651</ele>
+    <name>YO/EC-435 Prâsnelul</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="48.0158" lon="23.3242">
+    <ele>648</ele>
+    <name>YO/EC-436 Geamăna Mare</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.0283" lon="24.4350">
+    <ele>647</ele>
+    <name>YO/EC-437 La Râpa</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.6775" lon="23.5317">
+    <ele>636</ele>
+    <name>YO/EC-438 Iricău</name>
+    <cmt>YOFF-201</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.9692" lon="24.5283">
+    <ele>626</ele>
+    <name>YO/EC-439 Zselyk</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.0458" lon="24.5250">
+    <ele>625</ele>
+    <name>YO/EC-440 Măgurii</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.5658" lon="26.7742">
+    <ele>584</ele>
+    <name>YO/EC-441 Căpăţâna</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="48.0133" lon="23.1992">
+    <ele>582</ele>
+    <name>YO/EC-442 Dealul Babei</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.5800" lon="27.2675">
+    <ele>561</ele>
+    <name>YO/EC-443 Doroşan</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.9575" lon="23.3625">
+    <ele>536</ele>
+    <name>YO/EC-444 Dealul Măgura</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.3825" lon="27.1608">
+    <ele>525</ele>
+    <name>YO/EC-445 Poiana Neamţului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.6308" lon="26.7683">
+    <ele>501</ele>
+    <name>YO/EC-446 Chicera Mare</name>
+    <cmt>YOFF-525</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.8858" lon="23.2642">
+    <ele>480</ele>
+    <name>YO/EC-447 Dealul Jelejnic</name>
+    <cmt>YOFF-156</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.0092" lon="27.3600">
+    <ele>449</ele>
+    <name>YO/EC-448 Şanţurilor</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.9308" lon="23.1658">
+    <ele>396</ele>
+    <name>YO/EC-450 Pusta</name>
+    <cmt>YOFF-156</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="48.0142" lon="23.1517">
+    <ele>383</ele>
+    <name>YO/EC-451 Dealul Tămăşeni</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.9983" lon="23.1242">
+    <ele>364</ele>
+    <name>YO/EC-452 Dealul Pleşcuţa</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.2708" lon="25.4233">
+    <ele>1540</ele>
+    <name>YO/EC-455 Rus</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.2458" lon="25.8292">
+    <ele>1494</ele>
+    <name>YO/EC-456 Migovan</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.8842" lon="26.4883">
+    <ele>1492</ele>
+    <name>YO/EC-457 Titilelor</name>
+    <cmt>YOFF-024</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.1583" lon="25.522">
+    <ele>1480</ele>
+    <name>YO/EC-458 Şesul Popii</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.7858" lon="24.7583">
+    <ele>1432</ele>
+    <name>YO/EC-459 Piatra Arsă</name>
+    <cmt>YOFF-023</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.7000" lon="25.2717">
+    <ele>1418</ele>
+    <name>YO/EC-460 Poreica</name>
+    <cmt>YOFF-173</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.0142" lon="26.5767">
+    <ele>1369</ele>
+    <name>YO/EC-461 Zboina Neagră</name>
+    <cmt>YOFF-024</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.1908" lon="25.8350">
+    <ele>1328</ele>
+    <name>YO/EC-462 Ţifla</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.4356" lon="26.1962">
+    <ele>1320</ele>
+    <name>YO/EC-463 Piricske</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.2967" lon="25.6600">
+    <ele>1319</ele>
+    <name>YO/EC-464 Popii</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.6442" lon="24.0642">
+    <ele>1310</ele>
+    <name>YO/EC-465 Sec</name>
+    <cmt>YOFF-489</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.6942" lon="24.5667">
+    <ele>1211</ele>
+    <name>YO/EC-466 Boului</name>
+    <cmt>YOFF-023</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.7842" lon="25.5417">
+    <ele>1193</ele>
+    <name>YO/EC-467 Roşu</name>
+    <cmt>YOFF-454</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.2742" lon="26.0508">
+    <ele>1193</ele>
+    <name>YO/EC-468 Chiţigaia</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.6908" lon="24.5292">
+    <ele>1179</ele>
+    <name>YO/EC-469 Laz</name>
+    <cmt>YOFF-023</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.9900" lon="26.6058">
+    <ele>1173</ele>
+    <name>YO/EC-470 Ţiua Neagră</name>
+    <cmt>YOFF-582</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.4325" lon="26.2533">
+    <ele>1158</ele>
+    <name>YO/EC-471 Gherghelet</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.4192" lon="25.6925">
+    <ele>1154</ele>
+    <name>YO/EC-472 Muncelul Mare</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.9683" lon="26.1733">
+    <ele>1153</ele>
+    <name>YO/EC-473 Muncel</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3475" lon="26.1275">
+    <ele>1136</ele>
+    <name>YO/EC-474 Zmeuret</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5558" lon="26.6392">
+    <ele>1115</ele>
+    <name>YO/EC-475 Dosu</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.4725" lon="25.8400">
+    <ele>1089</ele>
+    <name>YO/EC-476 Bâtca</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.1142" lon="26.0700">
+    <ele>1077</ele>
+    <name>YO/EC-477 Fej</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.5833" lon="24.2925">
+    <ele>1073</ele>
+    <name>YO/EC-478 Petra</name>
+    <cmt>YOFF-445</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.7983" lon="23.6375">
+    <ele>1049</ele>
+    <name>YO/EC-479 Chicera Mare</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2592" lon="25.6867">
+    <ele>1072</ele>
+    <name>YO/EC-480 Simila</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.3700" lon="24.8383">
+    <ele>1025</ele>
+    <name>YO/EC-481 Borcut</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3942" lon="26.2900">
+    <ele>1014</ele>
+    <name>YO/EC-482 Cătiaş</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.5908" lon="24.0467">
+    <ele>966</ele>
+    <name>YO/EC-483 Periciu</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.8317" lon="26.8317">
+    <ele>959</ele>
+    <name>YO/EC-484 Răiuţi</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.7783" lon="26.3642">
+    <ele>891</ele>
+    <name>YO/EC-485 Ars</name>
+    <cmt>YOFF-525</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.4325" lon="26.6267">
+    <ele>825</ele>
+    <name>YO/EC-487 Bocului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2767" lon="26.1875">
+    <ele>823</ele>
+    <name>YO/EC-488 Pripor</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.9742" lon="23.4625">
+    <ele>819</ele>
+    <name>YO/EC-489 Ţigăneşti</name>
+    <cmt>YOFF-548</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.4717" lon="26.5992">
+    <ele>806</ele>
+    <name>YO/EC-490 Piţigoi</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.9642" lon="26.3067">
+    <ele>805</ele>
+    <name>YO/EC-491 Prohodiştea</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3525" lon="26.5850">
+    <ele>800</ele>
+    <name>YO/EC-492 Botacu</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.7733" lon="26.7396">
+    <ele>796</ele>
+    <name>YO/EC-493 Piatra Tojanului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2342" lon="26.1092">
+    <ele>770</ele>
+    <name>YO/EC-494 Lazuri</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.2650" lon="26.5375">
+    <ele>764</ele>
+    <name>YO/EC-495 Chitlăiele</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3708" lon="26.4092">
+    <ele>755</ele>
+    <name>YO/EC-496 Goşi</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.7732" lon="24.2154">
+    <ele>749</ele>
+    <name>YO/EC-497 Faţa Pleşii</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.2267" lon="24.5258">
+    <ele>739</ele>
+    <name>YO/EC-498 La Citate</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.3325" lon="26.1508">
+    <ele>739</ele>
+    <name>YO/EC-499 Runcului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.4317" lon="24.1542">
+    <ele>734</ele>
+    <name>YO/EC-500 Pepenele</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.4300" lon="26.8175">
+    <ele>715</ele>
+    <name>YO/EC-501 Cărunta</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.2550" lon="23.8117">
+    <ele>709</ele>
+    <name>YO/EC-502 Muncelul Săliştei</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3842" lon="26.5225">
+    <ele>708</ele>
+    <name>YO/EC-503 Posobeşti</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.7133" lon="26.9950">
+    <ele>693</ele>
+    <name>YO/EC-504 Delianu</name>
+    <cmt>YOFF-527</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.2842" lon="23.8025">
+    <ele>661</ele>
+    <name>YO/EC-505 Măgurii</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.1608" lon="25.9517">
+    <ele>653</ele>
+    <name>YO/EC-506 Măgura</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.4267" lon="26.9217">
+    <ele>637</ele>
+    <name>YO/EC-507 Piatra Albă</name>
+    <cmt>YOFF-527</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.9733" lon="26.8933">
+    <ele>630</ele>
+    <name>YO/EC-508 Momâia</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.0925" lon="24.4117">
+    <ele>628</ele>
+    <name>YO/EC-509 Gropi</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2433" lon="26.2217">
+    <ele>627</ele>
+    <name>YO/EC-510 Zboiu</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.2208" lon="26.3417">
+    <ele>623</ele>
+    <name>YO/EC-511 Neamţ</name>
+    <cmt>YOFF-018</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5283" lon="26.9792">
+    <ele>591</ele>
+    <name>YO/EC-512 Căpăţâna</name>
+    <cmt>YOFF-527</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.1608" lon="26.2350">
+    <ele>589</ele>
+    <name>YO/EC-513 Pleşu</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.4925" lon="26.6983">
+    <ele>586</ele>
+    <name>YO/EC-514 Dealul Mare</name>
+    <cmt>YOFF-507</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.1467" lon="26.0783">
+    <ele>584</ele>
+    <name>YO/EC-515 Piatra Bogdăneşti</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.5092" lon="26.8258">
+    <ele>555</ele>
+    <name>YO/EC-516 Holm</name>
+    <cmt>YOFF-264</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.9575" lon="23.8408">
+    <ele>521</ele>
+    <name>YO/EC-517 Harşa</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.7633" lon="26.7500">
+    <ele>509</ele>
+    <name>YO/EC-518 Bahna</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.0328" lon="26.2850">
+    <ele>446</ele>
+    <name>YO/EC-519 Scoruş</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.0313" lon="26.0528">
+    <ele>406</ele>
+    <name>YO/EC-520 Seciu</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="48.0250" lon="23.1200">
+    <ele>363</ele>
+    <name>YO/EC-521 Viile</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.5856" lon="24.6358">
+    <ele>2268</ele>
+    <name>YO/EC-522 Bukuly</name>
+    <cmt>YOFF-310</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.4933" lon="24.6682">
+    <ele>1912</ele>
+    <name>YO/EC-523 Rabla</name>
+    <cmt>YOFF-310</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.6996" lon="25.2864">
+    <ele>1689</ele>
+    <name>YO/EC-524 Tatár-kő</name>
+    <cmt>YOFF-215</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.2467" lon="25.6267">
+    <ele>1654</ele>
+    <name>YO/EC-525 Cota 1654</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.4681" lon="24.8574">
+    <ele>1587</ele>
+    <name>YO/EC-526 Bénes-fő</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.4581" lon="25.5387">
+    <ele>1576</ele>
+    <name>YO/EC-527 Muncel</name>
+    <cmt>YOFF-170</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.8402" lon="26.3131">
+    <ele>1542</ele>
+    <name>YO/EC-528 Fekete-bérc</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.9425" lon="25.9292">
+    <ele>1525</ele>
+    <name>YO/EC-529 Piatra Sură</name>
+    <cmt>YOFF-003</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5736" lon="26.4535">
+    <ele>1520</ele>
+    <name>YO/EC-530 Piciorul Caprei</name>
+    <cmt>YOFF-375</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.8414" lon="26.5253">
+    <ele>1477</ele>
+    <name>YO/EC-531 Tichireţu</name>
+    <cmt>YOFF-024</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6507" lon="26.5194">
+    <ele>1476</ele>
+    <name>YO/EC-532 Pietrele Însurate</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.5475" lon="24.2065">
+    <ele>1472</ele>
+    <name>YO/EC-533 Sóskás tető</name>
+    <cmt>YOFF-445</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.6289" lon="25.0407">
+    <ele>1470</ele>
+    <name>YO/EC-534 Preluca Dârmoxa</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.6203" lon="25.0112">
+    <ele>1466</ele>
+    <name>YO/EC-535 Muncel</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.6650" lon="25.4050">
+    <ele>1453</ele>
+    <name>YO/EC-536 Tomnatecul Mic</name>
+    <cmt>YOFF-454</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.4239" lon="25.5354">
+    <ele>1439</ele>
+    <name>YO/EC-537 Bâtca Neagră</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.1775" lon="25.9042">
+    <ele>1434</ele>
+    <name>YO/EC-538 Razemul Calului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.7822" lon="25.8133">
+    <ele>1408</ele>
+    <name>YO/EC-539 Gyilkos</name>
+    <cmt>YOFF-004</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.9310" lon="25.9336">
+    <ele>1398</ele>
+    <name>YO/EC-540 Bâtca Neagră</name>
+    <cmt>YOFF-003</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5858" lon="26.2804">
+    <ele>1375</ele>
+    <name>YO/EC-541 Paltinului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.3250" lon="25.6875">
+    <ele>1365</ele>
+    <name>YO/EC-542 Alunişul</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.7525" lon="25.1317">
+    <ele>1339</ele>
+    <name>YO/EC-543 Cota 1339</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.7675" lon="25.2408">
+    <ele>1321</ele>
+    <name>YO/EC-544 Ploscea</name>
+    <cmt>YOFF-173</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.8667" lon="24.3467">
+    <ele>1310</ele>
+    <name>YO/EC-545 Vâjii</name>
+    <cmt>YOFF-023</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6299" lon="26.6981">
+    <ele>1300</ele>
+    <name>YO/EC-546 Piatra</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.7188" lon="25.1893">
+    <ele>1294</ele>
+    <name>YO/EC-547 Aluniş</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3850" lon="25.7900">
+    <ele>1292</ele>
+    <name>YO/EC-548 Bronei</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.9229" lon="26.5528">
+    <ele>1291</ele>
+    <name>YO/EC-549 La Grădină</name>
+    <cmt>YOFF-024</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.3733" lon="25.6999">
+    <ele>1290</ele>
+    <name>YO/EC-550 Batuşan</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.9339" lon="26.5566">
+    <ele>1268</ele>
+    <name>YO/EC-552 Tisarul Mare</name>
+    <cmt>YOFF-024</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5406" lon="26.2766">
+    <ele>1255</ele>
+    <name>YO/EC-553 Frântura Şistocilor</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.7943" lon="25.8667">
+    <ele>1240</ele>
+    <name>YO/EC-554 Bâtca Neagră</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.2435" lon="25.0402">
+    <ele>1234</ele>
+    <name>YO/EC-555 Zimbrul</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.6325" lon="25.3533">
+    <ele>1234</ele>
+    <name>YO/EC-556 Muncel</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.8717" lon="24.5033">
+    <ele>1224</ele>
+    <name>YO/EC-557 Stânişoara</name>
+    <cmt>YOFF-023</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.1475" lon="26.0383">
+    <ele>1218</ele>
+    <name>YO/EC-558 Vârful Mare</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5983" lon="26.6583">
+    <ele>1208</ele>
+    <name>YO/EC-559 Carâmbului</name>
+    <cmt>YOFF-312</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.5935" lon="25.5528">
+    <ele>1202</ele>
+    <name>YO/EC-560 Măgura</name>
+    <cmt>YOFF-173</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.8975" lon="26.5254">
+    <ele>1197</ele>
+    <name>YO/EC-561 Cota 1197</name>
+    <cmt>YOFF-024</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2953" lon="25.8889">
+    <ele>1196</ele>
+    <name>YO/EC-562 Cota 1196</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.1479" lon="26.0896">
+    <ele>1192</ele>
+    <name>YO/EC-563 Crainicul</name>
+    <cmt>YOFF-018</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.6482" lon="23.8664">
+    <ele>1178</ele>
+    <name>YO/EC-564 Higea</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.9646" lon="25.9956">
+    <ele>1174</ele>
+    <name>YO/EC-565 Bâtca Chica Baicului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.4013" lon="25.7014">
+    <ele>1168</ele>
+    <name>YO/EC-566 Muncelul Mic</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.3350" lon="25.8908">
+    <ele>1138</ele>
+    <name>YO/EC-567 Cota 1138</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.4925" lon="25.6975">
+    <ele>1136</ele>
+    <name>YO/EC-568 Cota 1136</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.6139" lon="25.7222">
+    <ele>1121</ele>
+    <name>YO/EC-569 Gréces-tető</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.4388" lon="26.4397">
+    <ele>1115</ele>
+    <name>YO/EC-570 Arsenie</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.4464" lon="26.4653">
+    <ele>1110</ele>
+    <name>YO/EC-571 Cota 1110</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.7469" lon="25.4668">
+    <ele>1091</ele>
+    <name>YO/EC-572 Chicera Neagră</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.0517" lon="26.1892">
+    <ele>1087</ele>
+    <name>YO/EC-573 Musca</name>
+    <cmt>YOFF-018</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2450" lon="25.7650">
+    <ele>1084</ele>
+    <name>YO/EC-574 Nemernicul</name>
+    <cmt>YOFF-491</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.8083" lon="24.4892">
+    <ele>1081</ele>
+    <name>YO/EC-575 Minciul</name>
+    <cmt>YOFF-023</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.7001" lon="25.7519">
+    <ele>1071</ele>
+    <name>YO/EC-576 Cota 1071</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.4301" lon="26.3221">
+    <ele>1022</ele>
+    <name>YO/EC-577 Edera</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.8940" lon="25.6728">
+    <ele>1019</ele>
+    <name>YO/EC-578 Havad</name>
+    <cmt>YOFF-169</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.0383" lon="26.2667">
+    <ele>1005</ele>
+    <name>YO/EC-579 Ţiganca</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3203" lon="26.0936">
+    <ele>993</ele>
+    <name>YO/EC-580 Zamura</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.9850" lon="26.2292">
+    <ele>985</ele>
+    <name>YO/EC-581 Cota 985</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.6480" lon="24.1686">
+    <ele>981</ele>
+    <name>YO/EC-582 Cota 981</name>
+    <cmt>YOFF-445</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6792" lon="26.8008">
+    <ele>978</ele>
+    <name>YO/EC-583 Gârbova</name>
+    <cmt>YOFF-221</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.6413" lon="25.8081">
+    <ele>951</ele>
+    <name>YO/EC-584 Pleşa</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.8735" lon="25.6628">
+    <ele>915</ele>
+    <name>YO/EC-585 Alunişului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.7350" lon="26.3867">
+    <ele>898</ele>
+    <name>YO/EC-586 Babele</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.5611" lon="24.0192">
+    <ele>893</ele>
+    <name>YO/EC-587 Secătura</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.2957" lon="26.1282">
+    <ele>891</ele>
+    <name>YO/EC-588 Comorii</name>
+    <cmt>YOFF-018</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.3909" lon="24.3114">
+    <ele>870</ele>
+    <name>YO/EC-589 La Tău</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.7183" lon="26.7900">
+    <ele>866</ele>
+    <name>YO/EC-590 Răchitaş</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.8765" lon="25.5897">
+    <ele>845</ele>
+    <name>YO/EC-591 Huţa</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.7231" lon="26.8468">
+    <ele>845</ele>
+    <name>YO/EC-592 Stâna lui Chiolpan</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.9685" lon="26.0913">
+    <ele>840</ele>
+    <name>YO/EC-593 Bisericii</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.2318" lon="25.0741">
+    <ele>838</ele>
+    <name>YO/EC-594 Homát</name>
+    <cmt>YOFF-547</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.1525" lon="25.8292">
+    <ele>816</ele>
+    <name>YO/EC-595 Măceşul</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.8775" lon="26.3433">
+    <ele>809</ele>
+    <name>YO/EC-596 Faţa Ostrovului</name>
+    <cmt>YOFF-341</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.1394" lon="25.1209">
+    <ele>806</ele>
+    <name>YO/EC-597 Várhegy</name>
+    <cmt>YOFF-408</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.8133" lon="24.1242">
+    <ele>802</ele>
+    <name>YO/EC-598 Leşnicului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.1084" lon="25.1832">
+    <ele>785</ele>
+    <name>YO/EC-599 Gergely</name>
+    <cmt>YOFF-408</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.2692" lon="23.9367">
+    <ele>784</ele>
+    <name>YO/EC-600 Secăturile</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.7356" lon="25.2547">
+    <ele>784</ele>
+    <name>YO/EC-601 Satului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.7068" lon="24.1319">
+    <ele>768</ele>
+    <name>YO/EC-602 Pietricele</name>
+    <cmt>YOFF-445</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.3232" lon="24.2357">
+    <ele>765</ele>
+    <name>YO/EC-603 Hotarele</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.8017" lon="24.8050">
+    <ele>755</ele>
+    <name>YO/EC-604 Sinioara</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.3664" lon="24.9810">
+    <ele>752</ele>
+    <name>YO/EC-605 Törésbükk</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.4124" lon="24.3725">
+    <ele>747</ele>
+    <name>YO/EC-606 Vârtoapele</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.1880" lon="26.4414">
+    <ele>737</ele>
+    <name>YO/EC-607 Piatra Cislăului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2708" lon="26.0361">
+    <ele>710</ele>
+    <name>YO/EC-608 Cetăţuia</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.7808" lon="26.8333">
+    <ele>710</ele>
+    <name>YO/EC-609 Curmătura</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.3167" lon="24.2992">
+    <ele>704</ele>
+    <name>YO/EC-610 Măgura</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.9442" lon="24.6175">
+    <ele>697</ele>
+    <name>YO/EC-611 Vajola</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.6983" lon="23.6675">
+    <ele>687</ele>
+    <name>YO/EC-612 Chiuz</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.4450" lon="24.9775">
+    <ele>677</ele>
+    <name>YO/EC-613 Fateris-tető</name>
+    <cmt>YOFF-478</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.0313" lon="24.0944">
+    <ele>639</ele>
+    <name>YO/EC-614 Dumbralivezi</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.8468" lon="26.4150">
+    <ele>619</ele>
+    <name>YO/EC-615 Gorganul</name>
+    <cmt>YOFF-525</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.3083" lon="23.6525">
+    <ele>618</ele>
+    <name>YO/EC-616 Toci</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.0558" lon="24.3658">
+    <ele>614</ele>
+    <name>YO/EC-617 Cota 614</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.2442" lon="26.9292">
+    <ele>613</ele>
+    <name>YO/EC-618 Cânepăria</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="48.0317" lon="23.2683">
+    <ele>612</ele>
+    <name>YO/EC-619 Copârcea</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.4099" lon="23.5159">
+    <ele>611</ele>
+    <name>YO/EC-620 Hălăului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="48.0125" lon="23.2733">
+    <ele>596</ele>
+    <name>YO/EC-621 Ceaslăş</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.3125" lon="23.6775">
+    <ele>583</ele>
+    <name>YO/EC-622 Mielăriei</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.1850" lon="26.4275">
+    <ele>583</ele>
+    <name>YO/EC-623 Boiştea</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.0692" lon="24.2842">
+    <ele>580</ele>
+    <name>YO/EC-624 Bobeica</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.2850" lon="24.1269">
+    <ele>579</ele>
+    <name>YO/EC-625 Galumb</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.9969" lon="23.9733">
+    <ele>567</ele>
+    <name>YO/EC-626 Chicera</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.9292" lon="24.4657">
+    <ele>546</ele>
+    <name>YO/EC-627 Csuha</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.9286" lon="26.3804">
+    <ele>528</ele>
+    <name>YO/EC-628 Pietricica</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3317" lon="26.6800">
+    <ele>463</ele>
+    <name>YO/EC-629 Gâlma</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.0344" lon="27.6215">
+    <ele>417</ele>
+    <name>YO/EC-630 Rotunda</name>
+    <cmt>YOFF-320</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.9417" lon="23.1867">
+    <ele>402</ele>
+    <name>YO/EC-631 Ascuţita</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.9758" lon="27.5150">
+    <ele>399</ele>
+    <name>YO/EC-632 Moviliţa</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5995" lon="24.7361">
+    <ele>2545</ele>
+    <name>YO/MC-001 Moldoveanu</name>
+    <cmt>YOFF-309</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5851" lon="24.5585">
+    <ele>2536</ele>
+    <name>YO/MC-002 Negoj</name>
+    <cmt>YOFF-309</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3400" lon="23.5392">
+    <ele>2519</ele>
+    <name>YO/MC-003 Nagy-Páreng</name>
+    <cmt>YOFF-373</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5780" lon="24.5700">
+    <ele>2517</ele>
+    <name>YO/MC-004 Lészped</name>
+    <cmt>YOFF-309</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3650" lon="22.8933">
+    <ele>2509</ele>
+    <name>YO/MC-005 Peleaga</name>
+    <cmt>YOFF-011</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.4457" lon="25.4563">
+    <ele>2508</ele>
+    <name>YO/MC-006 Omu</name>
+    <cmt>YOFF-015</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6043" lon="24.6319">
+    <ele>2507</ele>
+    <name>YO/MC-007 Vadász-csúcs</name>
+    <cmt>YOFF-309</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.4274" lon="25.4852">
+    <ele>2490</ele>
+    <name>YO/MC-009 Coştila</name>
+    <cmt>YOFF-015</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3808" lon="22.8500">
+    <ele>2485</ele>
+    <name>YO/MC-010 Retyezát</name>
+    <cmt>YOFF-011</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3692" lon="22.9083">
+    <ele>2508</ele>
+    <name>YO/MC-012 Păpuşa</name>
+    <cmt>YOFF-011</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3492" lon="22.9292">
+    <ele>2457</ele>
+    <name>YO/MC-013 Custura</name>
+    <cmt>YOFF-011</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5050" lon="25.0612">
+    <ele>2391</ele>
+    <name>YO/MC-014 Păpuşa</name>
+    <cmt>YOFF-309</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3658" lon="22.8617">
+    <ele>2432</ele>
+    <name>YO/MC-016 Bucura I</name>
+    <cmt>YOFF-011</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5270" lon="25.2117">
+    <ele>2238</ele>
+    <name>YO/MC-017 Pásztor-csúcs</name>
+    <cmt>YOFF-010</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5786" lon="23.8018">
+    <ele>2244</ele>
+    <name>YO/MC-019 Csindrel</name>
+    <cmt>YOFF-132</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2317" lon="22.6475">
+    <ele>2229</ele>
+    <name>YO/MC-020 Godján</name>
+    <cmt>YOFF-011</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3230" lon="23.9188">
+    <ele>2124</ele>
+    <name>YO/MC-021 Ursu</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3125" lon="22.8908">
+    <ele>2080</ele>
+    <name>YO/MC-023 Drăgşanul</name>
+    <cmt>YOFF-011</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2358" lon="22.8900">
+    <ele>1946</ele>
+    <name>YO/MC-024 Oslea</name>
+    <cmt>YOFF-314</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.1575" lon="22.5600">
+    <ele>1928</ele>
+    <name>YO/MC-025 Dobrii</name>
+    <cmt>YOFF-311</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3083" lon="23.2642">
+    <ele>1868</ele>
+    <name>YO/MC-026 Straja</name>
+    <cmt>YOFF-314</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5509" lon="25.2652">
+    <ele>1816</ele>
+    <name>YO/MC-027 Kis-Királykő</name>
+    <cmt>YOFF-010</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2933" lon="23.1800">
+    <ele>1790</ele>
+    <name>YO/MC-028 Coarnele</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3225" lon="24.3367">
+    <ele>1668</ele>
+    <name>YO/MC-029 Cozia</name>
+    <cmt>YOFF-006</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3883" lon="23.1925">
+    <ele>1544</ele>
+    <name>YO/MC-030 Oboroca</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5247" lon="25.3238">
+    <ele>1375</ele>
+    <name>YO/MC-031 Törcsvári Magura</name>
+    <cmt>YOFF-010</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="44.9800" lon="22.5408">
+    <ele>1335</ele>
+    <name>YO/MC-032 Pietrele Albe</name>
+    <cmt>YOFF-008</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2350" lon="25.0733">
+    <ele>1017</ele>
+    <name>YO/MC-033 Dealul Măţău</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2102" lon="25.1780">
+    <ele>951</ele>
+    <name>YO/MC-034 Groapa Oii</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.1469" lon="25.5975">
+    <ele>849</ele>
+    <name>YO/MC-035 Sultanu</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.1742" lon="24.2667">
+    <ele>599</ele>
+    <name>YO/MC-037 Dealul Înalt</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="44.6742" lon="22.5883">
+    <ele>403</ele>
+    <name>YO/MC-038 Dealul Vărănic</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5892" lon="24.8283">
+    <ele>2506</ele>
+    <name>YO/MC-039 Horhos</name>
+    <cmt>YOFF-309</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5735" lon="24.7430">
+    <ele>2489</ele>
+    <name>YO/MC-040 Scărişoarei</name>
+    <cmt>YOFF-309</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6104" lon="24.7690">
+    <ele>2471</ele>
+    <name>YO/MC-041 Gălăşescu Mare</name>
+    <cmt>YOFF-309</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.4758" lon="24.9523">
+    <ele>2469</ele>
+    <name>YO/MC-042 Roşu</name>
+    <cmt>YOFF-309</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5976" lon="24.6775">
+    <ele>2468</ele>
+    <name>YO/MC-043 Nagy-Árpás</name>
+    <cmt>YOFF-309</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5948" lon="24.6599">
+    <ele>2461</ele>
+    <name>YO/MC-044 Kis-Árpás</name>
+    <cmt>YOFF-309</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6061" lon="24.7528">
+    <ele>2461</ele>
+    <name>YO/MC-045 Medve-szakadék</name>
+    <cmt>YOFF-309</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5742" lon="24.6492">
+    <ele>2442</ele>
+    <name>YO/MC-046 Kecses-csúcs</name>
+    <cmt>YOFF-309</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3833" lon="22.9217">
+    <ele>2433</ele>
+    <name>YO/MC-047 Vârful Mare</name>
+    <cmt>YOFF-011</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5694" lon="24.4904">
+    <ele>2431</ele>
+    <name>YO/MC-048 Golyó-fő</name>
+    <cmt>YOFF-309</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3408" lon="23.6064">
+    <ele>2365</ele>
+    <name>YO/MC-050 Setea Mare</name>
+    <cmt>YOFF-373</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5823" lon="24.4592">
+    <ele>2343</ele>
+    <name>YO/MC-051 Budiszláv</name>
+    <cmt>YOFF-309</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3416" lon="23.6364">
+    <ele>2337</ele>
+    <name>YO/MC-052 Mohoru</name>
+    <cmt>YOFF-373</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5849" lon="24.5388">
+    <ele>2331</ele>
+    <name>YO/MC-053 Serbota</name>
+    <cmt>YOFF-309</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5817" lon="24.9267">
+    <ele>2321</ele>
+    <name>YO/MC-054 Ludisor</name>
+    <cmt>YOFF-309</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5836" lon="24.5040">
+    <ele>2306</ele>
+    <name>YO/MC-055 Skála; Létra</name>
+    <cmt>YOFF-309</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5900" lon="24.9833">
+    <ele>2300</ele>
+    <name>YO/MC-056 Nagy-Berivoj</name>
+    <cmt>YOFF-309</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2525" lon="22.6758">
+    <ele>2291</ele>
+    <name>YO/MC-057 Moraru</name>
+    <cmt>YOFF-011</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2775" lon="22.6742">
+    <ele>2291</ele>
+    <name>YO/MC-058 Gugu</name>
+    <cmt>YOFF-011</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5317" lon="23.8058">
+    <ele>2242</ele>
+    <name>YO/MC-059 Ştefleşti</name>
+    <cmt>YOFF-132</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5225" lon="23.8758">
+    <ele>2207</ele>
+    <name>YO/MC-060 Balindru Mare</name>
+    <cmt>YOFF-132</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3025" lon="22.5567">
+    <ele>2196</ele>
+    <name>YO/MC-061 Căleanu</name>
+    <cmt>YOFF-311</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2683" lon="22.7608">
+    <ele>2194</ele>
+    <name>YO/MC-062 Galbena</name>
+    <cmt>YOFF-011</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3750" lon="22.6617">
+    <ele>2192</ele>
+    <name>YO/MC-063 Pietrii</name>
+    <cmt>YOFF-483</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5083" lon="23.7592">
+    <ele>2178</ele>
+    <name>YO/MC-064 Piatra Albă</name>
+    <cmt>YOFF-132</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3383" lon="23.7533">
+    <ele>2170</ele>
+    <name>YO/MC-065 Micaia</name>
+    <cmt>YOFF-373</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2708" lon="22.7992">
+    <ele>2152</ele>
+    <name>YO/MC-066 Paltina</name>
+    <cmt>YOFF-011</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3183" lon="22.6208">
+    <ele>2150</ele>
+    <name>YO/MC-067 Nedeia</name>
+    <cmt>YOFF-311</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5192" lon="24.0583">
+    <ele>2142</ele>
+    <name>YO/MC-068 Sterpului</name>
+    <cmt>YOFF-132</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3228" lon="25.3162">
+    <ele>2133</ele>
+    <name>YO/MC-070 Leaota</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5500" lon="23.5367">
+    <ele>2130</ele>
+    <name>YO/MC-071 Vârful lui Pătru</name>
+    <cmt>YOFF-132</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3275" lon="23.8467">
+    <ele>2130</ele>
+    <name>YO/MC-072 Nedeia</name>
+    <cmt>YOFF-313</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5175" lon="24.9450">
+    <ele>2125</ele>
+    <name>YO/MC-073 Mezea</name>
+    <cmt>YOFF-309</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.4258" lon="24.8792">
+    <ele>2093</ele>
+    <name>YO/MC-075 Păpău</name>
+    <cmt>YOFF-309</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5075" lon="24.8067">
+    <ele>2086</ele>
+    <name>YO/MC-076 Preotesele</name>
+    <cmt>YOFF-309</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5792" lon="23.4942">
+    <ele>2059</ele>
+    <name>YO/MC-077 Surján</name>
+    <cmt>YOFF-132</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3950" lon="23.6642">
+    <ele>2055</ele>
+    <name>YO/MC-078 Bora</name>
+    <cmt>YOFF-373</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.4033" lon="23.8042">
+    <ele>2053</ele>
+    <name>YO/MC-079 Fratoşteanu</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3900" lon="23.7422">
+    <ele>2049</ele>
+    <name>YO/MC-080 Puru</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3842" lon="23.8458">
+    <ele>2013</ele>
+    <name>YO/MC-081 Părăginosu</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2000" lon="22.5883">
+    <ele>1990</ele>
+    <name>YO/MC-082 Olanelor</name>
+    <cmt>YOFF-311</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6225" lon="24.9908">
+    <ele>2000</ele>
+    <name>YO/MC-083 Scoarţa</name>
+    <cmt>YOFF-309</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3058" lon="24.0483">
+    <ele>1979</ele>
+    <name>YO/MC-084 Zmeuret</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3799" lon="25.3607">
+    <ele>1954</ele>
+    <name>YO/MC-085 Dudele Mari</name>
+    <cmt>YOFF-291</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3368" lon="25.4777">
+    <ele>1942</ele>
+    <name>YO/MC-086 Vânturişul</name>
+    <cmt>YOFF-015</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2342" lon="22.5767">
+    <ele>1929</ele>
+    <name>YO/MC-087 Ciocănaşu</name>
+    <cmt>YOFF-311</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.4275" lon="23.5667">
+    <ele>1927</ele>
+    <name>YO/MC-088 Capra</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.4250" lon="22.7275">
+    <ele>1895</ele>
+    <name>YO/MC-089 Petreanu</name>
+    <cmt>YOFF-483</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2483" lon="24.1008">
+    <ele>1885</ele>
+    <name>YO/MC-090 Vânturariţa</name>
+    <cmt>YOFF-001</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3533" lon="23.8733">
+    <ele>1879</ele>
+    <name>YO/MC-091 Piatra Târnovului</name>
+    <cmt>YOFF-420</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3326" lon="25.2471">
+    <ele>1856</ele>
+    <name>YO/MC-092 Cioara</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.4558" lon="23.8208">
+    <ele>1853</ele>
+    <name>YO/MC-093 Mănăileasa Mare</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.4125" lon="22.8142">
+    <ele>1827</ele>
+    <name>YO/MC-094 Picuiu</name>
+    <cmt>YOFF-011</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.1208" lon="22.5300">
+    <ele>1828</ele>
+    <name>YO/MC-095 Baba</name>
+    <cmt>YOFF-311</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3730" lon="22.4740">
+    <ele>1802</ele>
+    <name>YO/MC-096 Muntele Mic</name>
+    <cmt>YOFF-311</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3858" lon="23.0933">
+    <ele>1792</ele>
+    <name>YO/MC-097 Tulişa</name>
+    <cmt>YOFF-417</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5917" lon="23.5325">
+    <ele>1766</ele>
+    <name>YO/MC-098 Canciu</name>
+    <cmt>YOFF-132</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2450" lon="23.0158">
+    <ele>1760</ele>
+    <name>YO/MC-099 Arcanu</name>
+    <cmt>YOFF-314</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2717" lon="23.5467">
+    <ele>1758</ele>
+    <name>YO/MC-100 Molidvişul</name>
+    <cmt>YOFF-313</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6067" lon="24.1117">
+    <ele>1744</ele>
+    <name>YO/MC-101 Prejba</name>
+    <cmt>YOFF-132</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5457" lon="25.1518">
+    <ele>1735</ele>
+    <name>YO/MC-102 Nagy-Tamás</name>
+    <cmt>YOFF-309</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.0608" lon="22.5167">
+    <ele>1733</ele>
+    <name>YO/MC-103 Vlaşcu Mic</name>
+    <cmt>YOFF-008</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.4725" lon="24.5508">
+    <ele>1717</ele>
+    <name>YO/MC-104 Clăbucetul</name>
+    <cmt>YOFF-309</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5900" lon="23.5925">
+    <ele>1696</ele>
+    <name>YO/MC-105 Fetiţa</name>
+    <cmt>YOFF-132</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3192" lon="23.3300">
+    <ele>1690</ele>
+    <name>YO/MC-106 Drăgoiu</name>
+    <cmt>YOFF-007</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6192" lon="23.5633">
+    <ele>1687</ele>
+    <name>YO/MC-107 Păltinel</name>
+    <cmt>YOFF-132</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2908" lon="23.0925">
+    <ele>1682</ele>
+    <name>YO/MC-108 Şigleu Mare</name>
+    <cmt>YOFF-314</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2083" lon="22.8925">
+    <ele>1671</ele>
+    <name>YO/MC-109 Poiana Boului</name>
+    <cmt>YOFF-314</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6402" lon="25.1244">
+    <ele>1641</ele>
+    <name>YO/MC-110 Ţaga</name>
+    <cmt>YOFF-309</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6091" lon="25.1958">
+    <ele>1629</ele>
+    <name>YO/MC-111 Ciuma</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3567" lon="24.6942">
+    <ele>1622</ele>
+    <name>YO/MC-112 Ghiţu</name>
+    <cmt>YOFF-309</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2356" lon="22.9590">
+    <ele>1619</ele>
+    <name>YO/MC-113 Nedeilor</name>
+    <cmt>YOFF-314</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3892" lon="25.2675">
+    <ele>1600</ele>
+    <name>YO/MC-114 Zăbava</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.4961" lon="25.1217">
+    <ele>1586</ele>
+    <name>YO/MC-115 Plaghia</name>
+    <cmt>YOFF-568</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.1000" lon="22.5958">
+    <ele>1568</ele>
+    <name>YO/MC-116 Opleşata</name>
+    <cmt>YOFF-008</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3125" lon="23.4450">
+    <ele>1548</ele>
+    <name>YO/MC-117 Sapa</name>
+    <cmt>YOFF-373</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5002" lon="25.2421">
+    <ele>1546</ele>
+    <name>YO/MC-118 Coja</name>
+    <cmt>YOFF-010</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3700" lon="24.5582">
+    <ele>1534</ele>
+    <name>YO/MC-119 Muntişoru</name>
+    <cmt>YOFF-309</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.0175" lon="22.4500">
+    <ele>1511</ele>
+    <name>YO/MC-120 Arjana</name>
+    <cmt>YOFF-008</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3983" lon="24.0558">
+    <ele>1510</ele>
+    <name>YO/MC-121 Molidvişul Mare</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3075" lon="24.2100">
+    <ele>1509</ele>
+    <name>YO/MC-122 Cârligele Olăneştilor</name>
+    <cmt>YOFF-006</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.4583" lon="22.5200">
+    <ele>1502</ele>
+    <name>YO/MC-123 Măgura Marga</name>
+    <cmt>YOFF-311</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5192" lon="23.3058">
+    <ele>1499</ele>
+    <name>YO/MC-124 Jigoru Mare</name>
+    <cmt>YOFF-016</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2517" lon="23.4942">
+    <ele>1496</ele>
+    <name>YO/MC-125 Muncel</name>
+    <cmt>YOFF-313</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3775" lon="24.0733">
+    <ele>1495</ele>
+    <name>YO/MC-126 Molidvişul Mic</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6833" lon="23.4183">
+    <ele>1515</ele>
+    <name>YO/MC-127 Dosul Lupşei</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.4775" lon="24.5742">
+    <ele>1472</ele>
+    <name>YO/MC-128 Culmea Vulturului</name>
+    <cmt>YOFF-309</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.0233" lon="22.5983">
+    <ele>1466</ele>
+    <name>YO/MC-129 Vârful lui Stan</name>
+    <cmt>YOFF-008</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.4658" lon="22.7892">
+    <ele>1457</ele>
+    <name>YO/MC-130 Furcătura Clopotivei</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.7067" lon="23.8176">
+    <ele>1470</ele>
+    <name>YO/MC-131 Balta Roşie</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.1600" lon="22.9517">
+    <ele>1453</ele>
+    <name>YO/MC-132 Piatra Broştenilor</name>
+    <cmt>YOFF-314</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.1308" lon="22.4617">
+    <ele>1450</ele>
+    <name>YO/MC-133 Cozia</name>
+    <cmt>YOFF-311</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.1758" lon="23.0800">
+    <ele>1444</ele>
+    <name>YO/MC-134 Pleşa</name>
+    <cmt>YOFF-314</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2550" lon="25.3717">
+    <ele>1439</ele>
+    <name>YO/MC-135 Măguri</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3610" lon="25.1959">
+    <ele>1434</ele>
+    <name>YO/MC-136 Piatra Dragoslavelor</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.1075" lon="22.7775">
+    <ele>1421</ele>
+    <name>YO/MC-137 Piatra Cloşanilor</name>
+    <cmt>YOFF-008</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2733" lon="22.4292">
+    <ele>1414</ele>
+    <name>YO/MC-138 Pleşa Mare</name>
+    <cmt>YOFF-311</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5883" lon="23.9775">
+    <ele>1413</ele>
+    <name>YO/MC-139 Pleşu Mic</name>
+    <cmt>YOFF-132</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3875" lon="25.2175">
+    <ele>1407</ele>
+    <name>YO/MC-140 Colţii Ghimbavului</name>
+    <cmt>YOFF-010</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3542" lon="24.6567">
+    <ele>1371</ele>
+    <name>YO/MC-141 Albina</name>
+    <cmt>YOFF-309</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.4467" lon="22.8475">
+    <ele>1367</ele>
+    <name>YO/MC-142 Chiciura</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3725" lon="24.4642">
+    <ele>1367</ele>
+    <name>YO/MC-143 Poiana Spinului</name>
+    <cmt>YOFF-309</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.0933" lon="22.3750">
+    <ele>1364</ele>
+    <name>YO/MC-144 Cernii</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.1925" lon="23.0333">
+    <ele>1345</ele>
+    <name>YO/MC-145 Piva</name>
+    <cmt>YOFF-314</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2608" lon="25.5583">
+    <ele>1339</ele>
+    <name>YO/MC-146 Gurguiatul</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="44.9550" lon="22.5017">
+    <ele>1310</ele>
+    <name>YO/MC-147 Înălăţul Mare</name>
+    <cmt>YOFF-008</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.4446" lon="25.1417">
+    <ele>1309</ele>
+    <name>YO/MC-148 Drăganu</name>
+    <cmt>YOFF-568</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6642" lon="24.1083">
+    <ele>1304</ele>
+    <name>YO/MC-149 Măgura</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.1758" lon="22.4192">
+    <ele>1292</ele>
+    <name>YO/MC-150 Dosul Deavoii</name>
+    <cmt>YOFF-311</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3875" lon="24.1608">
+    <ele>1285</ele>
+    <name>YO/MC-151 Pietroşiţa</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5217" lon="24.3558">
+    <ele>1268</ele>
+    <name>YO/MC-153 Măgura</name>
+    <cmt>YOFF-309</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.4750" lon="24.2492">
+    <ele>1251</ele>
+    <name>YO/MC-154 Gorganu</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="44.9050" lon="22.4825">
+    <ele>1229</ele>
+    <name>YO/MC-155 Colţul Pietrei</name>
+    <cmt>YOFF-008</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.4642" lon="23.3805">
+    <ele>1228</ele>
+    <name>YO/MC-156 Piatra Leşului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2658" lon="24.2117">
+    <ele>1221</ele>
+    <name>YO/MC-157 Pârâul Câinelui</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2967" lon="24.7075">
+    <ele>1218</ele>
+    <name>YO/MC-158 Chicioara</name>
+    <cmt>YOFF-449</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.1575" lon="22.7550">
+    <ele>1213</ele>
+    <name>YO/MC-159 Ştevaru</name>
+    <cmt>YOFF-008</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6464" lon="25.2363">
+    <ele>1212</ele>
+    <name>YO/MC-160 Poiana Bârsa Fierului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5667" lon="23.2092">
+    <ele>1202</ele>
+    <name>YO/MC-161 Paltinului</name>
+    <cmt>YOFF-016</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5200" lon="24.3142">
+    <ele>1201</ele>
+    <name>YO/MC-162 Pleaşa</name>
+    <cmt>YOFF-309</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6942" lon="23.3292">
+    <ele>1198</ele>
+    <name>YO/MC-163 Piscul Glivii</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="44.8917" lon="22.4492">
+    <ele>1192</ele>
+    <name>YO/MC-164 Şuşcu</name>
+    <cmt>YOFF-008</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2066" lon="24.0464">
+    <ele>1183</ele>
+    <name>YO/MC-165 Arnota</name>
+    <cmt>YOFF-001</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.0558" lon="22.6758">
+    <ele>1179</ele>
+    <name>YO/MC-166 Poiana Mică</name>
+    <cmt>YOFF-008</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3542" lon="24.7425">
+    <ele>1216</ele>
+    <name>YO/MC-167 Strungii</name>
+    <cmt>YOFF-309</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.1392" lon="22.7625">
+    <ele>1166</ele>
+    <name>YO/MC-168 Cioaca Frasinului</name>
+    <cmt>YOFF-008</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.0917" lon="22.7600">
+    <ele>1163</ele>
+    <name>YO/MC-169 Piatra Mică a Cloşanilor</name>
+    <cmt>YOFF-008</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3917" lon="23.9825">
+    <ele>1161</ele>
+    <name>YO/MC-170 Dealul Cireşului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6450" lon="24.1717">
+    <ele>1149</ele>
+    <name>YO/MC-171 Gruiu Lazului</name>
+    <cmt>YOFF-273</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.1550" lon="22.3800">
+    <ele>1130</ele>
+    <name>YO/MC-173 Dealul Druşchii</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="44.8717" lon="22.4433">
+    <ele>1105</ele>
+    <name>YO/MC-174 Domogled</name>
+    <cmt>YOFF-008</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="44.9642" lon="22.4425">
+    <ele>1105</ele>
+    <name>YO/MC-175 Ciclovete</name>
+    <cmt>YOFF-008</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2367" lon="23.3683">
+    <ele>1068</ele>
+    <name>YO/MC-176 Sliva</name>
+    <cmt>YOFF-007</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5867" lon="23.0633">
+    <ele>1031</ele>
+    <name>YO/MC-177 Crucii</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2275" lon="22.4425">
+    <ele>1013</ele>
+    <name>YO/MC-178 Măgura</name>
+    <cmt>YOFF-311</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.4458" lon="24.3350">
+    <ele>1004</ele>
+    <name>YO/MC-179 Oului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2342" lon="23.4158">
+    <ele>992</ele>
+    <name>YO/MC-180 Trântorul</name>
+    <cmt>YOFF-007</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.0667" lon="22.6192">
+    <ele>979</ele>
+    <name>YO/MC-181 Geanţul Hermanului</name>
+    <cmt>YOFF-008</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6875" lon="24.0650">
+    <ele>959</ele>
+    <name>YO/MC-182 Dealul Şcheiului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.7217" lon="24.0125">
+    <ele>956</ele>
+    <name>YO/MC-183 Dealul Dumbrava</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3892" lon="24.3742">
+    <ele>954</ele>
+    <name>YO/MC-184 Golul Cireşului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.8233" lon="23.6292">
+    <ele>947</ele>
+    <name>YO/MC-185 Piatra Varului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5850" lon="24.2367">
+    <ele>929</ele>
+    <name>YO/MC-186 Dâlmei</name>
+    <cmt>YOFF-132</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.4342" lon="22.3833">
+    <ele>927</ele>
+    <name>YO/MC-187 Bătrânul</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2192" lon="22.3842">
+    <ele>933</ele>
+    <name>YO/MC-188 Plopul</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2425" lon="24.1675">
+    <ele>919</ele>
+    <name>YO/MC-189 Piatra Tăiată</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.0075" lon="22.6708">
+    <ele>885</ele>
+    <name>YO/MC-190 Paharnicului</name>
+    <cmt>YOFF-382</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5583" lon="23.0050">
+    <ele>870</ele>
+    <name>YO/MC-191 Purcăreţu</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2267" lon="24.4408">
+    <ele>886</ele>
+    <name>YO/MC-192 Plaiul Galben</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.1950" lon="24.2217">
+    <ele>820</ele>
+    <name>YO/MC-193 Şuviţa Olăneşti</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5333" lon="23.1083">
+    <ele>804</ele>
+    <name>YO/MC-194 Măgura</name>
+    <cmt>YOFF-016</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.8625" lon="23.4667">
+    <ele>800</ele>
+    <name>YO/MC-195 Văratic</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.1391" lon="24.7299">
+    <ele>771</ele>
+    <name>YO/MC-196 Râpa cu Brazi</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.8042" lon="23.8633">
+    <ele>770</ele>
+    <name>YO/MC-197 Dealul Furcilor</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2058" lon="24.3208">
+    <ele>766</ele>
+    <name>YO/MC-198 Pleşului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.7692" lon="23.0583">
+    <ele>593</ele>
+    <name>YO/MC-199 Dealul Măgura</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2825" lon="24.1283">
+    <ele>1493</ele>
+    <name>YO/MC-200 Stog</name>
+    <cmt>YOFF-006</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3058" lon="25.1452">
+    <ele>1241</ele>
+    <name>YO/MC-201 Mateiaşi</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3625" lon="24.7292">
+    <ele>1142</ele>
+    <name>YO/MC-202 Chei</name>
+    <cmt>YOFF-309</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3150" lon="24.4800">
+    <ele>1068</ele>
+    <name>YO/MC-203 Feţei Mari</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3909" lon="25.1976">
+    <ele>1022</ele>
+    <name>YO/MC-204 Cota 1022</name>
+    <cmt>YOFF-010</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.1025" lon="22.9008">
+    <ele>956</ele>
+    <name>YO/MC-205 Cioclovina</name>
+    <cmt>YOFF-314</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2525" lon="24.7900">
+    <ele>898</ele>
+    <name>YO/MC-206 Toaca</name>
+    <cmt>YOFF-449</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2645" lon="24.9762">
+    <ele>887</ele>
+    <name>YO/MC-207 Ciocanu</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.1767" lon="25.0458">
+    <ele>869</ele>
+    <name>YO/MC-208 Râpa Roşie</name>
+    <cmt>YOFF-456</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="44.9242" lon="22.6650">
+    <ele>771</ele>
+    <name>YO/MC-209 Corneiul Babelor</name>
+    <cmt>YOFF-382</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.1114" lon="23.9591">
+    <ele>767</ele>
+    <name>YO/MC-210 Slătiaru</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.1050" lon="25.4733">
+    <ele>740</ele>
+    <name>YO/MC-211 Mercani</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.0783" lon="25.6742">
+    <ele>713</ele>
+    <name>YO/MC-213 Teiş</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="44.7725" lon="22.5567">
+    <ele>638</ele>
+    <name>YO/MC-214 Maiag</name>
+    <cmt>YOFF-382</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.0700" lon="23.7450">
+    <ele>612</ele>
+    <name>YO/MC-215 Becheni</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6912" lon="24.2904">
+    <ele>612</ele>
+    <name>YO/MC-216 Chicera Veştem</name>
+    <cmt>YOFF-473</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.4328" lon="25.4563">
+    <ele>2485</ele>
+    <name>YO/MC-217 Colţii Obârşiei</name>
+    <cmt>YOFF-015</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6041" lon="24.6850">
+    <ele>2462</ele>
+    <name>YO/MC-218 Podragu</name>
+    <cmt>YOFF-309</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5881" lon="24.5869">
+    <ele>2390</ele>
+    <name>YO/MC-219 Lăiţel</name>
+    <cmt>YOFF-309</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3472" lon="23.5650">
+    <ele>2375</ele>
+    <name>YO/MC-220 Lesul</name>
+    <cmt>YOFF-373</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3454" lon="23.6584">
+    <ele>2228</ele>
+    <name>YO/MC-221 Urdele</name>
+    <cmt>YOFF-373</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3632" lon="25.4932">
+    <ele>2103</ele>
+    <name>YO/MC-222 Furnica</name>
+    <cmt>YOFF-015</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3018" lon="22.9119">
+    <ele>2081</ele>
+    <name>YO/MC-223 Piule</name>
+    <cmt>YOFF-011</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5233" lon="24.1282">
+    <ele>2066</ele>
+    <name>YO/MC-224 Floarei</name>
+    <cmt>YOFF-132</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2826" lon="22.8508">
+    <ele>2014</ele>
+    <name>YO/MC-225 Piatra Iorgovanului</name>
+    <cmt>YOFF-011</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3709" lon="25.3156">
+    <ele>1890</ele>
+    <name>YO/MC-226 Secările</name>
+    <cmt>YOFF-291</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5224" lon="23.5688">
+    <ele>1775</ele>
+    <name>YO/MC-227 Smida Mare</name>
+    <cmt>YOFF-132</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5615" lon="24.3607">
+    <ele>1728</ele>
+    <name>YO/MC-228 Zănoaga</name>
+    <cmt>YOFF-309</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.4674" lon="25.4988">
+    <ele>1582</ele>
+    <name>YO/MC-229 Dihám</name>
+    <cmt>YOFF-015</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2704" lon="25.3800">
+    <ele>1518</ele>
+    <name>YO/MC-230 Raciu</name>
+    <cmt>YOFF-015</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.4656" lon="22.7289">
+    <ele>1510</ele>
+    <name>YO/MC-231 Ofului</name>
+    <cmt>YOFF-483</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2318" lon="22.8353">
+    <ele>1445</ele>
+    <name>YO/MC-232 Cota 1445</name>
+    <cmt>YOFF-008</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3337" lon="23.0316">
+    <ele>1437</ele>
+    <name>YO/MC-233 Păroasa</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.1904" lon="22.4500">
+    <ele>1432</ele>
+    <name>YO/MC-234 Poiana Înaltă</name>
+    <cmt>YOFF-311</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6975" lon="23.5375">
+    <ele>1428</ele>
+    <name>YO/MC-235 Dealul Ţeţului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2925" lon="24.1975">
+    <ele>1409</ele>
+    <name>YO/MC-236 Sturc</name>
+    <cmt>YOFF-006</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5665" lon="24.3090">
+    <ele>1384</ele>
+    <name>YO/MC-237 Claia Bulzului</name>
+    <cmt>YOFF-309</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5983" lon="23.3033">
+    <ele>1345</ele>
+    <name>YO/MC-238 Rudii</name>
+    <cmt>YOFF-016</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.4163" lon="25.2662">
+    <ele>1344</ele>
+    <name>YO/MC-239 Căpăţâna</name>
+    <cmt>YOFF-010</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.1008" lon="22.4533">
+    <ele>1198</ele>
+    <name>YO/MC-241 Ostrişul</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3146" lon="24.8469">
+    <ele>1154</ele>
+    <name>YO/MC-242 Plătica</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="44.9425" lon="22.4822">
+    <ele>1146</ele>
+    <name>YO/MC-243 Înălăţul Mic</name>
+    <cmt>YOFF-008</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2983" lon="24.5908">
+    <ele>1118</ele>
+    <name>YO/MC-244 Faţa Roşie</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3654" lon="23.9826">
+    <ele>1115</ele>
+    <name>YO/MC-245 Cota 1115</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.7913" lon="23.7200">
+    <ele>1072</ele>
+    <name>YO/MC-246 Măgura Poienei</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.4992" lon="24.2622">
+    <ele>1028</ele>
+    <name>YO/MC-247 Cota 1028</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2683" lon="24.1683">
+    <ele>1008</ele>
+    <name>YO/MC-248 Cota 1008</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.1833" lon="25.5158">
+    <ele>910</ele>
+    <name>YO/MC-249 Runcu Bezdedului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6094" lon="24.2468">
+    <ele>859</ele>
+    <name>YO/MC-250 Oancea</name>
+    <cmt>YOFF-132</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="44.9417" lon="22.6883">
+    <ele>803</ele>
+    <name>YO/MC-251 Cerboanea</name>
+    <cmt>YOFF-382</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.1492" lon="24.2858">
+    <ele>753</ele>
+    <name>YO/MC-252 Lacul Frumoasei</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.0824" lon="24.9507">
+    <ele>750</ele>
+    <name>YO/MC-253 Kő-hegy</name>
+    <cmt>YOFF-408</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="44.8092" lon="22.6083">
+    <ele>722</ele>
+    <name>YO/MC-254 Chicioara / Godeanu</name>
+    <cmt>YOFF-382</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.8725" lon="23.5042">
+    <ele>673</ele>
+    <name>YO/MC-255 Dumbrava</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="44.9500" lon="22.7875">
+    <ele>614</ele>
+    <name>YO/MC-256 Brânzeni</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.0583" lon="24.1042">
+    <ele>594</ele>
+    <name>YO/MC-257 Dumbrăviţa</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.0386" lon="24.4031">
+    <ele>584</ele>
+    <name>YO/MC-258 Izbăşeşti</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6453" lon="24.2818">
+    <ele>565</ele>
+    <name>YO/MC-259 Măgura</name>
+    <cmt>YOFF-473</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="44.9707" lon="22.8540">
+    <ele>548</ele>
+    <name>YO/MC-260 Curmătura Creţului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.3132" lon="23.8346">
+    <ele>548</ele>
+    <name>YO/MC-261 Podina</name>
+    <cmt>YOFF-202</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.0106" lon="25.4149">
+    <ele>518</ele>
+    <name>YO/MC-262 Lăculeţe</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="44.8500" lon="23.4183">
+    <ele>424</ele>
+    <name>YO/MC-263 Poienile</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="44.9654" lon="22.8974">
+    <ele>422</ele>
+    <name>YO/MC-264 Rătez</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.4409" lon="22.6889">
+    <ele>1848</ele>
+    <name>YO/WC-001 Nagy-Bihar</name>
+    <cmt>YOFF-458</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.7592" lon="22.7939">
+    <ele>1836</ele>
+    <name>YO/WC-002 Vigyázó</name>
+    <cmt>YOFF-020</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.4142" lon="22.8000">
+    <ele>1413</ele>
+    <name>YO/WC-005 Drăghiţa</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.4464" lon="23.5878">
+    <ele>1128</ele>
+    <name>YO/WC-006 Székely-kő</name>
+    <cmt>YOFF-434</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.8367" lon="22.8375">
+    <ele>1097</ele>
+    <name>YO/WC-007 Măgura Vişagului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.7485" lon="23.2027">
+    <ele>1017</ele>
+    <name>YO/WC-009 Dongó-tető</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.8017" lon="22.5383">
+    <ele>1025</ele>
+    <name>YO/WC-010 Holdringató</name>
+    <cmt>YOFF-506</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.5117" lon="22.3083">
+    <ele>998</ele>
+    <name>YO/WC-011 Pâncoaia</name>
+    <cmt>YOFF-235</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.7550" lon="22.3800">
+    <ele>957</ele>
+    <name>YO/WC-013 Druja</name>
+    <cmt>YOFF-195</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.8708" lon="22.8450">
+    <ele>947</ele>
+    <name>YO/WC-014 Tarányosi Magura</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.4117" lon="22.4100">
+    <ele>930</ele>
+    <name>YO/WC-015 Mormuţa</name>
+    <cmt>YOFF-484</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.4675" lon="22.3767">
+    <ele>918</ele>
+    <name>YO/WC-016 Dealul Ronţaru</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.4658" lon="22.5892">
+    <ele>890</ele>
+    <name>YO/WC-017 Măgura Băiţa</name>
+    <cmt>YOFF-458</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.4017" lon="22.3575">
+    <ele>866</ele>
+    <name>YO/WC-018 Smida</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.4933" lon="22.3483">
+    <ele>859</ele>
+    <name>YO/WC-019 Runcului</name>
+    <cmt>YOFF-235</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.5325" lon="23.5967">
+    <ele>852</ele>
+    <name>YO/WC-020 La Baltă</name>
+    <cmt>YOFF-171</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.6903" lon="23.5569">
+    <ele>832</ele>
+    <name>YO/WC-021 Árpád-csúcs</name>
+    <cmt>YOFF-262</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.4267" lon="22.3258">
+    <ele>880</ele>
+    <name>YO/WC-022 Măgura Zugăului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.5965" lon="23.5324">
+    <ele>800</ele>
+    <name>YO/WC-023 Egres-tető</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.2069" lon="21.8090">
+    <ele>799</ele>
+    <name>YO/WC-024 Hegyes</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.5559" lon="23.6693">
+    <ele>795</ele>
+    <name>YO/WC-025 Kápolnás-tető</name>
+    <cmt>YOFF-228</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.5700" lon="23.6808">
+    <ele>759</ele>
+    <name>YO/WC-026 Szindi tető</name>
+    <cmt>YOFF-228</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.8683" lon="22.9142">
+    <ele>760</ele>
+    <name>YO/WC-027 Morlaca</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.3733" lon="22.2917">
+    <ele>741</ele>
+    <name>YO/WC-028 Măgura Diecilor</name>
+    <cmt>YOFF-486</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.1533" lon="23.1025">
+    <ele>716</ele>
+    <name>YO/WC-029 Măgura Stânii</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.8225" lon="23.5500">
+    <ele>682</ele>
+    <name>YO/WC-030 Lomb</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.8275" lon="23.4928">
+    <ele>680</ele>
+    <name>YO/WC-031 Coruş</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6917" lon="22.1375">
+    <ele>608</ele>
+    <name>YO/WC-032 Pohia</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.1542" lon="21.9108">
+    <ele>557</ele>
+    <name>YO/WC-033 Debela Gora</name>
+    <cmt>YOFF-508</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.7475" lon="22.1108">
+    <ele>496</ele>
+    <name>YO/WC-035 Măgura Surduc</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.3875" lon="21.8450">
+    <ele>378</ele>
+    <name>YO/WC-037 Dealul lui Mocrea</name>
+    <cmt>YOFF-400</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.4915" lon="23.2405">
+    <ele>1826</ele>
+    <name>YO/WC-041 Öreg-havas</name>
+    <cmt>YOFF-306</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.7000" lon="22.7125">
+    <ele>1792</ele>
+    <name>YO/WC-042 Bocsásza</name>
+    <cmt>YOFF-212</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.7733" lon="22.7733">
+    <ele>1702</ele>
+    <name>YO/WC-043 Tarniţa</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.7304" lon="22.7754">
+    <ele>1692</ele>
+    <name>YO/WC-044 Kis-havas</name>
+    <cmt>YOFF-020</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.5525" lon="22.9999">
+    <ele>1670</ele>
+    <name>YO/WC-045 Silha</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.6096" lon="22.7580">
+    <ele>1641</ele>
+    <name>YO/WC-046 Kék Magura</name>
+    <cmt>YOFF-020</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.6675" lon="22.6433">
+    <ele>1625</ele>
+    <name>YO/WC-047 Poienii</name>
+    <cmt>YOFF-020</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.5667" lon="22.7917">
+    <ele>1579</ele>
+    <name>YO/WC-048 Bătrâna</name>
+    <cmt>YOFF-020</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.5156" lon="23.0090">
+    <ele>1602</ele>
+    <name>YO/WC-049 Vârful lui Toader</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.5783" lon="22.8325">
+    <ele>1568</ele>
+    <name>YO/WC-050 Vârful Roşu</name>
+    <cmt>YOFF-020</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.3458" lon="22.7442">
+    <ele>1486</ele>
+    <name>YO/WC-051 Găina</name>
+    <cmt>YOFF-458</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.5240" lon="22.6468">
+    <ele>1475</ele>
+    <name>YO/WC-052 Bak-hát</name>
+    <cmt>YOFF-020</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.5862" lon="22.9456">
+    <ele>1475</ele>
+    <name>YO/WC-053 Sturu</name>
+    <cmt>YOFF-020</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.3300" lon="23.2833">
+    <ele>1437</ele>
+    <name>YO/WC-054 Poieniţa</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.6205" lon="22.9355">
+    <ele>1429</ele>
+    <name>YO/WC-055 Piatra Fulgerată</name>
+    <cmt>YOFF-020</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.5242" lon="22.7575">
+    <ele>1425</ele>
+    <name>YO/WC-056 Cristeasa</name>
+    <cmt>YOFF-020</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.7658" lon="22.7375">
+    <ele>1417</ele>
+    <name>YO/WC-057 Poiana Mică</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.6815" lon="22.9532">
+    <ele>1404</ele>
+    <name>YO/WC-058 Măgura Călăţele</name>
+    <cmt>YOFF-020</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.2458" lon="23.2467">
+    <ele>1384</ele>
+    <name>YO/WC-059 Negrileasa Mare</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.4975" lon="23.3767">
+    <ele>1382</ele>
+    <name>YO/WC-060 Bélavár</name>
+    <cmt>YOFF-434</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6625" lon="22.3217">
+    <ele>1374</ele>
+    <name>YO/WC-061 Padeş</name>
+    <cmt>YOFF-401</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.1600" lon="23.2608">
+    <ele>1369</ele>
+    <name>YO/WC-062 Dombó-csúcs</name>
+    <cmt>YOFF-434</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.2858" lon="23.2375">
+    <ele>1366</ele>
+    <name>YO/WC-063 Geamăna</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6683" lon="22.4267">
+    <ele>1355</ele>
+    <name>YO/WC-064 Ruscă</name>
+    <cmt>YOFF-401</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.2258" lon="23.1992">
+    <ele>1348</ele>
+    <name>YO/WC-065 Vâlcoi</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.3375" lon="22.8783">
+    <ele>1327</ele>
+    <name>YO/WC-066 Ştiubeiului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.1550" lon="23.3017">
+    <ele>1307</ele>
+    <name>YO/WC-067 Corabia</name>
+    <cmt>YOFF-434</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.1975" lon="23.3542">
+    <ele>1300</ele>
+    <name>YO/WC-068 Băieş</name>
+    <cmt>YOFF-434</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.4530" lon="23.5054">
+    <ele>1285</ele>
+    <name>YO/WC-069 Vidaly-kő</name>
+    <cmt>YOFF-434</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.3700" lon="23.4908">
+    <ele>1281</ele>
+    <name>YO/WC-070 Secului</name>
+    <cmt>YOFF-434</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.2675" lon="23.2033">
+    <ele>1258</ele>
+    <name>YO/WC-071 Detonáta</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.2442" lon="22.9608">
+    <ele>1257</ele>
+    <name>YO/WC-072 Vulcan</name>
+    <cmt>YOFF-308</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.3250" lon="23.5225">
+    <ele>1250</ele>
+    <name>YO/WC-073 Pilis</name>
+    <cmt>YOFF-434</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.4472" lon="23.5274">
+    <ele>1250</ele>
+    <name>YO/WC-074 Ordas-kő</name>
+    <cmt>YOFF-434</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6392" lon="22.3808">
+    <ele>1243</ele>
+    <name>YO/WC-075 Boului</name>
+    <cmt>YOFF-401</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.2658" lon="23.4867">
+    <ele>1233</ele>
+    <name>YO/WC-076 Csáklya-kő</name>
+    <cmt>YOFF-434</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.8133" lon="22.7117">
+    <ele>1232</ele>
+    <name>YO/WC-077 Dealul Caprei</name>
+    <cmt>YOFF-506</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="44.8000" lon="22.1558">
+    <ele>1224</ele>
+    <name>YO/WC-078 Nagy-Szvinyica</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.4283" lon="23.3708">
+    <ele>1215</ele>
+    <name>YO/WC-079 Bendii</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.3417" lon="23.4858">
+    <ele>1215</ele>
+    <name>YO/WC-080 Geamănului</name>
+    <cmt>YOFF-434</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6433" lon="22.4633">
+    <ele>1201</ele>
+    <name>YO/WC-081 Chiciova</name>
+    <cmt>YOFF-401</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.7792" lon="22.9158">
+    <ele>1195</ele>
+    <name>YO/WC-082 Chicera</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6100" lon="22.6225">
+    <ele>1183</ele>
+    <name>YO/WC-083 Măgurii</name>
+    <cmt>YOFF-483</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.2842" lon="22.8542">
+    <ele>1183</ele>
+    <name>YO/WC-084 Plutonu</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.2692" lon="23.4500">
+    <ele>1182</ele>
+    <name>YO/WC-085 Dealul Măgurii</name>
+    <cmt>YOFF-434</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.1342" lon="23.0417">
+    <ele>1170</ele>
+    <name>YO/WC-086 Fericelii</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.2867" lon="23.4642">
+    <ele>1167</ele>
+    <name>YO/WC-087 Piatra din Chei</name>
+    <cmt>YOFF-434</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="44.9508" lon="21.8492">
+    <ele>1160</ele>
+    <name>YO/WC-088 Leordiş</name>
+    <cmt>YOFF-005</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.2792" lon="23.4967">
+    <ele>1158</ele>
+    <name>YO/WC-089 Prisaca Geoagiului</name>
+    <cmt>YOFF-434</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="44.8767" lon="22.2150">
+    <ele>1148</ele>
+    <name>YO/WC-090 Cârşa Mică</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.2175" lon="23.1017">
+    <ele>1142</ele>
+    <name>YO/WC-092 Petriceaua</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.2692" lon="23.3758">
+    <ele>1147</ele>
+    <name>YO/WC-093 Cota 1147</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.1575" lon="23.4150">
+    <ele>1130</ele>
+    <name>YO/WC-094 Piatra Grohotişului</name>
+    <cmt>YOFF-171</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2892" lon="22.1108">
+    <ele>1122</ele>
+    <name>YO/WC-095 Nemanul Mare</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.1092" lon="23.1608">
+    <ele>1121</ele>
+    <name>YO/WC-096 Breaza</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.1475" lon="23.1025">
+    <ele>1120</ele>
+    <name>YO/WC-097 Grohaş</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.5358" lon="22.1758">
+    <ele>1112</ele>
+    <name>YO/WC-098 Szártető</name>
+    <cmt>YOFF-235</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.6450" lon="22.5633">
+    <ele>1106</ele>
+    <name>YO/WC-099 Harasztosi Magura</name>
+    <cmt>YOFF-020</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.8525" lon="22.7058">
+    <ele>1096</ele>
+    <name>YO/WC-100 Nagy-Szeny</name>
+    <cmt>YOFF-506</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.1308" lon="23.3492">
+    <ele>1094</ele>
+    <name>YO/WC-101 Dosul Blidarului</name>
+    <cmt>YOFF-171</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.0375" lon="22.9817">
+    <ele>1080</ele>
+    <name>YO/WC-102 Setraşu</name>
+    <cmt>YOFF-520</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6025" lon="22.2875">
+    <ele>1075</ele>
+    <name>YO/WC-103 Poeţii</name>
+    <cmt>YOFF-401</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="44.8117" lon="22.1108">
+    <ele>1069</ele>
+    <name>YO/WC-104 Curmăturile Băniei</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.2483" lon="23.0600">
+    <ele>1058</ele>
+    <name>YO/WC-105 Dealul Fragilor</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.9850" lon="23.0425">
+    <ele>1056</ele>
+    <name>YO/WC-106 Haitău</name>
+    <cmt>YOFF-520</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5875" lon="22.3650">
+    <ele>1086</ele>
+    <name>YO/WC-107 Scărişoara</name>
+    <cmt>YOFF-401</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="44.9842" lon="21.7892">
+    <ele>1046</ele>
+    <name>YO/WC-108 Cununa</name>
+    <cmt>YOFF-005</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.5483" lon="22.2908">
+    <ele>1044</ele>
+    <name>YO/WC-109 Dievii</name>
+    <cmt>YOFF-235</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.2067" lon="23.0367">
+    <ele>1034</ele>
+    <name>YO/WC-110 Brădişorul</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6358" lon="22.6967">
+    <ele>1031</ele>
+    <name>YO/WC-111 Văratecu</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.3800" lon="22.9750">
+    <ele>1022</ele>
+    <name>YO/WC-112 Sorbiţa</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="44.9617" lon="21.9008">
+    <ele>1013</ele>
+    <name>YO/WC-113 Radoşca</name>
+    <cmt>YOFF-005</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.2575" lon="23.1542">
+    <ele>1012</ele>
+    <name>YO/WC-114 Dealul Ciungilor</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.3100" lon="23.4450">
+    <ele>1009</ele>
+    <name>YO/WC-115 Piatra Nicaia</name>
+    <cmt>YOFF-434</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.0075" lon="22.9100">
+    <ele>996</ele>
+    <name>YO/WC-117 Perjei-csúcs</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.3850" lon="22.5933">
+    <ele>988</ele>
+    <name>YO/WC-118 Dobrinu</name>
+    <cmt>YOFF-458</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.2183" lon="22.9383">
+    <ele>981</ele>
+    <name>YO/WC-119 Dealul Negrii</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.3592" lon="22.6250">
+    <ele>974</ele>
+    <name>YO/WC-120 Ţiclu</name>
+    <cmt>YOFF-458</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.9450" lon="22.8975">
+    <ele>970</ele>
+    <name>YO/WC-121 Grebeni</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.0708" lon="22.9658">
+    <ele>969</ele>
+    <name>YO/WC-122 Duba</name>
+    <cmt>YOFF-520</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="44.7783" lon="22.3017">
+    <ele>968</ele>
+    <name>YO/WC-123 Teiul Moşului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.2917" lon="22.7675">
+    <ele>967</ele>
+    <name>YO/WC-124 Piatra Bulzului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.4967" lon="23.5025">
+    <ele>966</ele>
+    <name>YO/WC-125 Vârfuiata</name>
+    <cmt>YOFF-171</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6017" lon="22.3950">
+    <ele>959</ele>
+    <name>YO/WC-126 Ascuţita Mare</name>
+    <cmt>YOFF-401</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.0397" lon="23.3039">
+    <ele>955</ele>
+    <name>YO/WC-127 Nămăşoaia</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.0858" lon="23.2233">
+    <ele>952</ele>
+    <name>YO/WC-128 Jidovu</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.6025" lon="22.6050">
+    <ele>948</ele>
+    <name>YO/WC-129 Măgura Guranilor</name>
+    <cmt>YOFF-020</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6350" lon="22.7883">
+    <ele>954</ele>
+    <name>YO/WC-130 Ţiganului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.8008" lon="22.4942">
+    <ele>928</ele>
+    <name>YO/WC-131 Nyár-hegy</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.5950" lon="22.1833">
+    <ele>925</ele>
+    <name>YO/WC-132 Bălăteasa</name>
+    <cmt>YOFF-235</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.0650" lon="23.4417">
+    <ele>920</ele>
+    <name>YO/WC-133 Stânii</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.9883" lon="22.6992">
+    <ele>918</ele>
+    <name>YO/WC-134 Măgura Mare</name>
+    <cmt>YOFF-460</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.3442" lon="23.2175">
+    <ele>917</ele>
+    <name>YO/WC-135 Măgura</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5817" lon="22.6975">
+    <ele>920</ele>
+    <name>YO/WC-136 Milu</name>
+    <cmt>YOFF-483</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.1342" lon="22.5533">
+    <ele>905</ele>
+    <name>YO/WC-137 Măgureaua</name>
+    <cmt>YOFF-457</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.9342" lon="22.7408">
+    <ele>901</ele>
+    <name>YO/WC-138 Păltiniş</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.1175" lon="22.6358">
+    <ele>899</ele>
+    <name>YO/WC-139 Malului</name>
+    <cmt>YOFF-457</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="44.8242" lon="21.9733">
+    <ele>897</ele>
+    <name>YO/WC-140 Tâlva Blidarului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.0133" lon="22.9658">
+    <ele>897</ele>
+    <name>YO/WC-141 Stogului</name>
+    <cmt>YOFF-520</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.2875" lon="22.8933">
+    <ele>897</ele>
+    <name>YO/WC-142 Dredin</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.2475" lon="22.4325">
+    <ele>881</ele>
+    <name>YO/WC-143 Văratecului</name>
+    <cmt>YOFF-477</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="44.7458" lon="22.2692">
+    <ele>884</ele>
+    <name>YO/WC-144 Predelu</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.1050" lon="23.0183">
+    <ele>874</ele>
+    <name>YO/WC-145 Osoiu</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.6217" lon="22.6008">
+    <ele>861</ele>
+    <name>YO/WC-146 Dâncoasa</name>
+    <cmt>YOFF-020</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.0392" lon="22.9358">
+    <ele>858</ele>
+    <name>YO/WC-147 Chicera Poniţa</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.9067" lon="22.4883">
+    <ele>856</ele>
+    <name>YO/WC-148 Karmazsin-hegy</name>
+    <cmt>YOFF-253</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.0333" lon="23.1600">
+    <ele>855</ele>
+    <name>YO/WC-149 Pleaşa Ardeului</name>
+    <cmt>YOFF-223</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="44.8800" lon="21.8558">
+    <ele>837</ele>
+    <name>YO/WC-150 Habâtu</name>
+    <cmt>YOFF-005</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.1908" lon="22.2025">
+    <ele>836</ele>
+    <name>YO/WC-151 Drócsa</name>
+    <cmt>YOFF-258</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.5925" lon="22.2908">
+    <ele>872</ele>
+    <name>YO/WC-152 Văratec</name>
+    <cmt>YOFF-235</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.0767" lon="23.0017">
+    <ele>826</ele>
+    <name>YO/WC-153 Porcurei</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.1983" lon="22.9650">
+    <ele>807</ele>
+    <name>YO/WC-154 Murtatul</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.1625" lon="22.2900">
+    <ele>805</ele>
+    <name>YO/WC-155 Husului</name>
+    <cmt>YOFF-258</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.7767" lon="22.4775">
+    <ele>784</ele>
+    <name>YO/WC-156 Mézgedi-hegy</name>
+    <cmt>YOFF-253</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.8475" lon="22.4633">
+    <ele>784</ele>
+    <name>YO/WC-157 Kőris-hegy</name>
+    <cmt>YOFF-253</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.1733" lon="21.9108">
+    <ele>783</ele>
+    <name>YO/WC-158 Socolovăţ</name>
+    <cmt>YOFF-013</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.9908" lon="22.9558">
+    <ele>781</ele>
+    <name>YO/WC-159 Făeragu</name>
+    <cmt>YOFF-520</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.0775" lon="22.8500">
+    <ele>776</ele>
+    <name>YO/WC-160 Ruda Muncelu</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.2075" lon="22.8900">
+    <ele>768</ele>
+    <name>YO/WC-161 Blăjeni</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.0433" lon="23.1142">
+    <ele>764</ele>
+    <name>YO/WC-162 Pleşa Moşului</name>
+    <cmt>YOFF-520</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.0875" lon="22.9058">
+    <ele>755</ele>
+    <name>YO/WC-163 Coasta Niculii</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.2433" lon="22.4950">
+    <ele>768</ele>
+    <name>YO/WC-164 Pleşa Tocului</name>
+    <cmt>YOFF-477</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="44.7417" lon="21.7475">
+    <ele>735</ele>
+    <name>YO/WC-165 Corhanul Mare</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="44.7242" lon="21.9567">
+    <ele>713</ele>
+    <name>YO/WC-166 Tâlva Toroniţa</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.1075" lon="22.9508">
+    <ele>712</ele>
+    <name>YO/WC-167 Măgura Curechiu</name>
+    <cmt>YOFF-520</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.0142" lon="23.1383">
+    <ele>712</ele>
+    <name>YO/WC-168 Pleaşa Mare</name>
+    <cmt>YOFF-223</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="44.6950" lon="21.9750">
+    <ele>708</ele>
+    <name>YO/WC-169 Polomi</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.0633" lon="22.9317">
+    <ele>708</ele>
+    <name>YO/WC-170 Bulzul Hărţăgani</name>
+    <cmt>YOFF-520</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.3750" lon="23.6183">
+    <ele>703</ele>
+    <name>YO/WC-171 Nyírmező</name>
+    <cmt>YOFF-171</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.1058" lon="23.6467">
+    <ele>693</ele>
+    <name>YO/WC-172 Bábolna</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.8725" lon="22.8617">
+    <ele>690</ele>
+    <name>YO/WC-173 Nucet</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.0117" lon="23.1175">
+    <ele>684</ele>
+    <name>YO/WC-174 Dosu</name>
+    <cmt>YOFF-223</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.0175" lon="22.8900">
+    <ele>677</ele>
+    <name>YO/WC-175 Măgura Băiţa</name>
+    <cmt>YOFF-297</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.0292" lon="22.5717">
+    <ele>660</ele>
+    <name>YO/WC-176 Gorgan</name>
+    <cmt>YOFF-254</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.1850" lon="23.4592">
+    <ele>644</ele>
+    <name>YO/WC-177 Nadiş</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.2750" lon="22.1600">
+    <ele>637</ele>
+    <name>YO/WC-178 Dealul Măgura</name>
+    <cmt>YOFF-258</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.0442" lon="22.5075">
+    <ele>647</ele>
+    <name>YO/WC-179 Godineşti</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.2358" lon="22.0642">
+    <ele>628</ele>
+    <name>YO/WC-180 Covăciuşa</name>
+    <cmt>YOFF-508</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2533" lon="21.8717">
+    <ele>622</ele>
+    <name>YO/WC-181 Bucitu</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.4833" lon="22.4508">
+    <ele>620</ele>
+    <name>YO/WC-182 Osoiu</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.3000" lon="21.7208">
+    <ele>617</ele>
+    <name>YO/WC-183 Culmea Poeţii</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2717" lon="21.9550">
+    <ele>616</ele>
+    <name>YO/WC-184 Ciopeasca</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.9942" lon="23.5758">
+    <ele>619</ele>
+    <name>YO/WC-185 Dealul Lat</name>
+    <cmt>YOFF-480</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.1217" lon="21.7733">
+    <ele>621</ele>
+    <name>YO/WC-186 Cărpiniş</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.2475" lon="22.7983">
+    <ele>596</ele>
+    <name>YO/WC-187 Măgura Şimleului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.5425" lon="23.0517">
+    <ele>580</ele>
+    <name>YO/WC-188 Lespezi</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.2289" lon="21.6870">
+    <ele>572</ele>
+    <name>YO/WC-189 Hidegkút</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.9590" lon="22.5253">
+    <ele>565</ele>
+    <name>YO/WC-190 Garda-tető</name>
+    <cmt>YOFF-506</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.2308" lon="23.2158">
+    <ele>557</ele>
+    <name>YO/WC-191 Dumbrava Brebi</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.4689" lon="21.7918">
+    <ele>549</ele>
+    <name>YO/WC-192 Cula Arenişului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="44.8358" lon="21.5325">
+    <ele>546</ele>
+    <name>YO/WC-193 Poiana Lisa</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.3058" lon="22.3750">
+    <ele>534</ele>
+    <name>YO/WC-194 Mizeşul</name>
+    <cmt>YOFF-477</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="44.8225" lon="21.4725">
+    <ele>501</ele>
+    <name>YO/WC-195 Livada</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.1492" lon="23.2458">
+    <ele>501</ele>
+    <name>YO/WC-196 Gâlpia Nord</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.4517" lon="22.0333">
+    <ele>437</ele>
+    <name>YO/WC-197 Măgura Poiana</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.9283" lon="22.4125">
+    <ele>479</ele>
+    <name>YO/WC-198 Dâmbul Gomila</name>
+    <cmt>YOFF-195</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.0567" lon="23.2717">
+    <ele>478</ele>
+    <name>YO/WC-199 Cărbunari</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.1405" lon="23.6184">
+    <ele>442</ele>
+    <name>YO/WC-201 Sântimbru</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.9783" lon="22.4467">
+    <ele>419</ele>
+    <name>YO/WC-202 Măgurii</name>
+    <cmt>YOFF-254</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.3483" lon="22.1650">
+    <ele>423</ele>
+    <name>YO/WC-203 Pleşa</name>
+    <cmt>YOFF-486</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.7375" lon="22.2125">
+    <ele>395</ele>
+    <name>YO/WC-204 Măgura Forău</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.3692" lon="22.8458">
+    <ele>377</ele>
+    <name>YO/WC-205 Dealul Mare</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.1828" lon="22.0535">
+    <ele>1447</ele>
+    <name>YO/WC-207 Piatra Goznei</name>
+    <cmt>YOFF-013</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.3133" lon="23.1542">
+    <ele>1272</ele>
+    <name>YO/WC-208 Vârşii Mari</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.6550" lon="23.3300">
+    <ele>1239</ele>
+    <name>YO/WC-209 Testiaş</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.5183" lon="23.5442">
+    <ele>1007</ele>
+    <name>YO/WC-210 Hişu</name>
+    <cmt>YOFF-171</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="44.5992" lon="22.1058">
+    <ele>913</ele>
+    <name>YO/WC-211 Copriva</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="44.6375" lon="22.2067">
+    <ele>802</ele>
+    <name>YO/WC-212 Goleţul Mare</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="44.5333" lon="22.1158">
+    <ele>756</ele>
+    <name>YO/WC-213 Cucuiova</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="44.5683" lon="22.0608">
+    <ele>755</ele>
+    <name>YO/WC-214 Cernii</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="44.6533" lon="22.0250">
+    <ele>690</ele>
+    <name>YO/WC-215 Tâlva Dreneşina</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.2292" lon="23.6617">
+    <ele>600</ele>
+    <name>YO/WC-216 Şindilii</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.0392" lon="23.6083">
+    <ele>599</ele>
+    <name>YO/WC-217 Dâmb</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.3017" lon="22.4692">
+    <ele>475</ele>
+    <name>YO/WC-218 Deal</name>
+    <cmt>YOFF-477</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.8764" lon="22.5234">
+    <ele>462</ele>
+    <name>YO/WC-219 Măgura Sălişte</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.4903" lon="22.6730">
+    <ele>1657</ele>
+    <name>YO/WC-220 Zengő-kő</name>
+    <cmt>YOFF-458</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.5924" lon="22.7839">
+    <ele>1555</ele>
+    <name>YO/WC-221 Bătrânii</name>
+    <cmt>YOFF-020</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.6494" lon="22.7973">
+    <ele>1517</ele>
+    <name>YO/WC-222 Chicera cu Colac</name>
+    <cmt>YOFF-020</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.7600" lon="22.6917">
+    <ele>1491</ele>
+    <name>YO/WC-223 Cornul Caprei</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.4325" lon="23.2400">
+    <ele>1385</ele>
+    <name>YO/WC-224 Frântura</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.5429" lon="23.3569">
+    <ele>1347</ele>
+    <name>YO/WC-225 Boinic</name>
+    <cmt>YOFF-434</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.6492" lon="23.2658">
+    <ele>1341</ele>
+    <name>YO/WC-226 Cota 1341</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.5628" lon="22.6187">
+    <ele>1292</ele>
+    <name>YO/WC-227 Tatár-hegy</name>
+    <cmt>YOFF-020</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.3808" lon="23.4858">
+    <ele>1280</ele>
+    <name>YO/WC-228 Prislop</name>
+    <cmt>YOFF-434</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.1964" lon="23.3043">
+    <ele>1274</ele>
+    <name>YO/WC-229 Cota 1274</name>
+    <cmt>YOFF-434</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.1663" lon="23.3161">
+    <ele>1252</ele>
+    <name>YO/WC-230 Măguri</name>
+    <cmt>YOFF-434</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.1999" lon="23.1985">
+    <ele>1193</ele>
+    <name>YO/WC-231 Pădurii</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.3417" lon="22.9483">
+    <ele>1153</ele>
+    <name>YO/WC-232 Cota 1153</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.2476" lon="23.3447">
+    <ele>1129</ele>
+    <name>YO/WC-233 Măguliţa</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.2829" lon="22.9685">
+    <ele>1023</ele>
+    <name>YO/WC-234 Chiuz</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.0550" lon="23.3379">
+    <ele>1010</ele>
+    <name>YO/WC-235 Vârful Mare</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.3086" lon="23.0306">
+    <ele>994</ele>
+    <name>YO/WC-236 Şerbanului</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6158" lon="22.5208">
+    <ele>978</ele>
+    <name>YO/WC-237 Dealul Tâlfa</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6175" lon="22.4083">
+    <ele>968</ele>
+    <name>YO/WC-238 Tâlva Vântului</name>
+    <cmt>YOFF-401</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.5722" lon="22.3119">
+    <ele>929</ele>
+    <name>YO/WC-239 Ascuţita Mare</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.0811" lon="22.9628">
+    <ele>902</ele>
+    <name>YO/WC-240 Cerburea</name>
+    <cmt>YOFF-520</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="44.6817" lon="22.1492">
+    <ele>901</ele>
+    <name>YO/WC-241 Omerşnicu Mare</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.0667" lon="21.7567">
+    <ele>853</ele>
+    <name>YO/WC-242 Tâlva Mare</name>
+    <cmt>YOFF-005</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6725" lon="22.7250">
+    <ele>829</ele>
+    <name>YO/WC-243 Jubi</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.5426" lon="23.5736">
+    <ele>811</ele>
+    <name>YO/WC-244 Satului</name>
+    <cmt>YOFF-434</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2467" lon="21.9399">
+    <ele>808</ele>
+    <name>YO/WC-245 Ponor</name>
+    <cmt>YOFF-013</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.0840" lon="23.5036">
+    <ele>772</ele>
+    <name>YO/WC-246 Mamut</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.1150" lon="22.5333">
+    <ele>756</ele>
+    <name>YO/WC-247 Cornet</name>
+    <cmt>YOFF-457</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="44.9078" lon="22.3292">
+    <ele>674</ele>
+    <name>YO/WC-248 Poiana Lungă</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.0575" lon="21.7333">
+    <ele>670</ele>
+    <name>YO/WC-249 Tâlva Mică</name>
+    <cmt>YOFF-005</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.8708" lon="23.5558">
+    <ele>668</ele>
+    <name>YO/WC-250 Diószeg-tető</name>
+    <cmt>YOFF-480</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.6800" lon="22.8117">
+    <ele>652</ele>
+    <name>YO/WC-251 Comoara</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.0954" lon="21.7776">
+    <ele>643</ele>
+    <name>YO/WC-252 Tâlva lui Ştefan</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.1318" lon="22.8533">
+    <ele>559</ele>
+    <name>YO/WC-253 Scoruş</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.1585" lon="21.7907">
+    <ele>551</ele>
+    <name>YO/WC-254 Ciudanoviţa</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.1069" lon="23.4635">
+    <ele>542</ele>
+    <name>YO/WC-255 Fecioara</name>
+    <cmt>YOFF-171</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="44.9442" lon="21.9951">
+    <ele>541</ele>
+    <name>YO/WC-256 Pojaru</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.0892" lon="23.2617">
+    <ele>513</ele>
+    <name>YO/WC-257 Cornul</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="44.7017" lon="21.7969">
+    <ele>481</ele>
+    <name>YO/WC-258 Bain</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="46.2792" lon="22.3692">
+    <ele>448</ele>
+    <name>YO/WC-259 Bălţile</name>
+    <cmt>YOFF-477</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.2657" lon="23.2258">
+    <ele>437</ele>
+    <name>YO/WC-260 Forduló</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.3343" lon="22.6386">
+    <ele>382</ele>
+    <name>YO/WC-261 Pădureni</name>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="47.2257" lon="22.5282">
+    <ele>362</ele>
+    <name>YO/WC-262 Curat</name>
+    <cmt>YOFF-460</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2050" lon="28.2642">
+    <ele>467</ele>
+    <name>YO/MM-001 Ţuţuiatul / Greci</name>
+    <cmt>YOFF-009</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.1192" lon="28.4392">
+    <ele>411</ele>
+    <name>YO/MM-002 Boclugea</name>
+    <cmt>YOFF-385</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.1217" lon="28.2558">
+    <ele>410</ele>
+    <name>YO/MM-003 Priopcea</name>
+    <cmt>YOFF-009</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="44.9767" lon="28.3867">
+    <ele>402</ele>
+    <name>YO/MM-004 Ţuguiata</name>
+    <cmt>YOFF-175</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.1083" lon="28.2025">
+    <ele>341</ele>
+    <name>YO/MM-005 Iacobdeal</name>
+    <cmt>YOFF-161</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.0225" lon="28.5133">
+    <ele>333</ele>
+    <name>YO/MM-006 Consul</name>
+    <cmt>YOFF-385</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="44.9992" lon="28.6900">
+    <ele>270</ele>
+    <name>YO/MM-007 Deniz-Tepé</name>
+    <cmt>YOFF-256</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.2426" lon="28.2040">
+    <ele>370</ele>
+    <name>YO/MM-008 Sulucu Mare</name>
+    <cmt>YOFF-009</cmt>
+    <sym>Summit</sym>
+  </wpt>
+  <wpt lat="45.0901" lon="29.0380">
+    <ele>243</ele>
+    <name>YO/MM-009 Beş-Tepé</name>
+    <cmt>YOFF-108</cmt>
+    <sym>Summit</sym>
+  </wpt>
+</gpx>
