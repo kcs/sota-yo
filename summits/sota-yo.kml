@@ -6,74 +6,74 @@
     <name>SOTA-YO</name>
     <Style id="pm-ec">
       <IconStyle>
-        <color>ff00ff55</color>
+        <color>ff00aaff</color>
         <scale>0.8</scale>
         <Icon>
           <href>http://maps.google.com/mapfiles/kml/pal5/icon6.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
-        <color>ff00ff55</color>
+        <color>ff00aaff</color>
       </LabelStyle>
     </Style>
     <Style id="pm-mc">
       <IconStyle>
-        <color>ffffaaaa</color>
+        <color>ff0055ff</color>
         <scale>0.8</scale>
         <Icon>
           <href>http://maps.google.com/mapfiles/kml/pal5/icon6.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
-        <color>ffffaaaa</color>
+        <color>ff0055ff</color>
       </LabelStyle>
     </Style>
     <Style id="pm-wc">
       <IconStyle>
-        <color>ffffaa55</color>
+        <color>ffffaaaa</color>
         <scale>0.8</scale>
         <Icon>
           <href>http://maps.google.com/mapfiles/kml/pal5/icon6.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
-        <color>ffffaa55</color>
+        <color>ffffaaaa</color>
       </LabelStyle>
     </Style>
     <Style id="pm-mm">
       <IconStyle>
-        <color>ff0055ff</color>
+        <color>ffff5555</color>
         <scale>0.8</scale>
         <Icon>
           <href>http://maps.google.com/mapfiles/kml/pal5/icon6.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
-        <color>ff0055ff</color>
+        <color>ffff5555</color>
       </LabelStyle>
     </Style>
     <Style id="pm-a">
       <IconStyle>
-        <color>ff00aaaa</color>
+        <color>ff00ff55</color>
         <scale>0.8</scale>
         <Icon>
           <href>http://maps.google.com/mapfiles/kml/pal5/icon6.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
-        <color>ff00aaaa</color>
+        <color>ff00ff55</color>
       </LabelStyle>
     </Style>
     <Style id="pm-o">
       <IconStyle>
-        <color>ff7faaaa</color>
+        <color>ff7fff55</color>
         <scale>0.8</scale>
         <Icon>
           <href>http://maps.google.com/mapfiles/kml/pal5/icon6.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
-        <color>ff7faaaa</color>
+        <color>ff7fff55</color>
       </LabelStyle>
     </Style>
     <Folder>
@@ -1017,9 +1017,9 @@
       <Placemark>
         <name>YO/EC-128 Bálványos-tető</name>
         <description>Bolovanu Mare, Alt.: 1569m, Prom.: 279m, Key col: 26.1155,46.7035, Locator: KN36aq</description>
-        <styleUrl>#pm-ec</styleUrl>
+        <styleUrl>#pm-a</styleUrl>
         <Point>
-          <coordinates>26.0717,46.7067,0</coordinates>
+          <coordinates>26.0718,46.7062,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -1065,9 +1065,9 @@
       <Placemark>
         <name>YO/EC-134 Hosszú-havas</name>
         <description>Cotului, Alt.: 1557m, Prom.: 342m, Key col: 26.0305,46.6970, Locator: KN36aq, inside YOFF-459</description>
-        <styleUrl>#pm-ec</styleUrl>
+        <styleUrl>#pm-a</styleUrl>
         <Point>
-          <coordinates>26.0108,46.6950,0</coordinates>
+          <coordinates>26.0104,46.6953,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>

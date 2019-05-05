@@ -671,7 +671,7 @@
     <cmt>YOFF-310</cmt>
     <sym>Summit</sym>
   </wpt>
-  <wpt lat="46.7067" lon="26.0717">
+  <wpt lat="46.7062" lon="26.0718">
     <ele>1569</ele>
     <name>YO/EC-128 Bálványos-tető</name>
     <sym>Summit</sym>
@@ -704,7 +704,7 @@
     <cmt>YOFF-280</cmt>
     <sym>Summit</sym>
   </wpt>
-  <wpt lat="46.6950" lon="26.0108">
+  <wpt lat="46.6953" lon="26.0104">
     <ele>1557</ele>
     <name>YO/EC-134 Hosszú-havas</name>
     <cmt>YOFF-459</cmt>

@@ -3,10 +3,10 @@
 import csv
 from datetime import date
 
-regions = ( ( 'EC', 'ff00ff55' ),
-            ( 'MC', 'ffffaaaa' ),
-            ( 'WC', 'ffffaa55' ),
-            ( 'MM', 'ff0055ff' ) )
+regions = ( ( 'EC', 'ff00aaff' ),
+            ( 'MC', 'ff0055ff' ),
+            ( 'WC', 'ffffaaaa' ),
+            ( 'MM', 'ffff5555' ) )
 
 points = [ '1', '2', '4', '6', '8', '10']
 
@@ -38,26 +38,26 @@ styles = "".join( """
 styles += """
     <Style id="pm-a">
       <IconStyle>
-        <color>ff00aaaa</color>
+        <color>ff00ff55</color>
         <scale>0.8</scale>
         <Icon>
           <href>http://maps.google.com/mapfiles/kml/pal5/icon6.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
-        <color>ff00aaaa</color>
+        <color>ff00ff55</color>
       </LabelStyle>
     </Style>
     <Style id="pm-o">
       <IconStyle>
-        <color>ff7faaaa</color>
+        <color>ff7fff55</color>
         <scale>0.8</scale>
         <Icon>
           <href>http://maps.google.com/mapfiles/kml/pal5/icon6.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
-        <color>ff7faaaa</color>
+        <color>ff7fff55</color>
       </LabelStyle>
     </Style>"""
 
