@@ -38,26 +38,26 @@ styles = "".join( """
 styles += """
     <Style id="pm-a">
       <IconStyle>
-        <color>ff00aaff</color>
+        <color>ff00aaaa</color>
         <scale>0.8</scale>
         <Icon>
           <href>http://maps.google.com/mapfiles/kml/pal5/icon6.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
-        <color>ff00aaff</color>
+        <color>ff00aaaa</color>
       </LabelStyle>
     </Style>
     <Style id="pm-o">
       <IconStyle>
-        <color>aa00aaff</color>
+        <color>ff7faaaa</color>
         <scale>0.8</scale>
         <Icon>
           <href>http://maps.google.com/mapfiles/kml/pal5/icon6.png</href>
         </Icon>
       </IconStyle>
       <LabelStyle>
-        <color>aa00aaff</color>
+        <color>ff7faaaa</color>
       </LabelStyle>
     </Style>"""
 
