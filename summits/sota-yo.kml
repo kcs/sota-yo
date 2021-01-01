@@ -225,9 +225,9 @@
       <Placemark>
         <name>YO/EC-022 Kereszt-hegy</name>
         <description>Crucii, Alt.: 1516m, Prom.: 302m, Key col: 25.2798,46.8136, Locator: KN26pt, inside YOFF-215</description>
-        <styleUrl>#pm-ec</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>25.2858,46.7975,0</coordinates>
+          <coordinates>25.2855,46.7975,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -569,9 +569,9 @@
       <Placemark>
         <name>YO/EC-070 Fekete-Hagymás</name>
         <description>Hășmașul Negru, Alt.: 1773m, Prom.: 315m, Key col: 25.7978,46.7278, Locator: KN26vr, inside YOFF-004</description>
-        <styleUrl>#pm-ec</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>25.8192,46.7400,0</coordinates>
+          <coordinates>25.8184,46.7403,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -697,7 +697,7 @@
       <Placemark>
         <name>YO/EC-088 Likas</name>
         <description>Licaș, Alt.: 1675m, Prom.: 421m, Key col: 25.7208,46.7755, Locator: KN26ut, inside YOFF-004</description>
-        <styleUrl>#pm-a</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
           <coordinates>25.7340,46.8125,0</coordinates>
         </Point>
@@ -809,7 +809,7 @@
       <Placemark>
         <name>YO/EC-102 Ló-havas</name>
         <description>Luhașul, Alt.: 1626m, Prom.: 196m, Key col: 25.7827,46.7292, Locator: KN26vs</description>
-        <styleUrl>#pm-a</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
           <coordinates>25.7583,46.7524,0</coordinates>
         </Point>
@@ -841,7 +841,7 @@
       <Placemark>
         <name>YO/EC-106 Kis-havas; Dancúrás</name>
         <description>Chișhovoș, Alt.: 1624m, Prom.: 197m, Key col: 25.7375,46.8033, Locator: KN26ut, inside YOFF-004</description>
-        <styleUrl>#pm-a</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
           <coordinates>25.7347,46.7980,0</coordinates>
         </Point>
@@ -1265,9 +1265,9 @@
       <Placemark>
         <name>YO/EC-159 Ló-havas sarka</name>
         <description>Lunaș, Alt.: 1489m, Prom.: 195m, Key col: 25.7477,46.7663, Locator: KN26vs</description>
-        <styleUrl>#pm-ec</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>25.7542,46.7700,0</coordinates>
+          <coordinates>25.7538,46.7703,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -1353,9 +1353,9 @@
       <Placemark>
         <name>YO/EC-170 Vârful lui Crai</name>
         <description>Alt.: 1503m, Prom.: 213m, Key col: 26.0998,45.5162, Locator: KN35ak, inside YOFF-231</description>
-        <styleUrl>#pm-ec</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>26.0400,45.4192,0</coordinates>
+          <coordinates>26.0398,45.4193,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -1367,11 +1367,11 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>YO/EC-172 Nebununul Mare</name>
+        <name>YO/EC-172 Nebunul Mare Nord</name>
         <description>Alt.: 1473m, Prom.: 202m, Key col: 25.8617,45.3608, Locator: KN25wi</description>
-        <styleUrl>#pm-ec</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>25.8675,45.3567,0</coordinates>
+          <coordinates>25.8670,45.3566,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -1433,9 +1433,9 @@
       <Placemark>
         <name>YO/EC-180 Nagy Mogyorós</name>
         <description>Alunișul Mare, Alt.: 1448m, Prom.: 178m, Key col: 25.4522,47.1351, Locator: KN27rd</description>
-        <styleUrl>#pm-ec</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>25.4758,47.1350,0</coordinates>
+          <coordinates>25.4763,47.1347,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -1681,9 +1681,9 @@
       <Placemark>
         <name>YO/EC-211 Bakta-hegy</name>
         <description>Bacta, Alt.: 1368m, Prom.: 230m, Key col: 25.3168,46.7571, Locator: KN26qs, inside YOFF-124</description>
-        <styleUrl>#pm-ec</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>25.3450,46.7625,0</coordinates>
+          <coordinates>25.3446,46.7628,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -1841,7 +1841,7 @@
       <Placemark>
         <name>YO/EC-231 Papolci-köz</name>
         <description>Chiuzul Păpăuți, Alt.: 1320m, Prom.: 258m, Key col: 26.2608,45.8066, Locator: KN35ct</description>
-        <styleUrl>#pm-a</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
           <coordinates>26.2240,45.7927,0</coordinates>
         </Point>
@@ -2049,9 +2049,9 @@
       <Placemark>
         <name>YO/EC-257 Kotumba</name>
         <description>Cotumba / Obcina Rotundă, Alt.: 1251m, Prom.: 276m, Key col: 26.0984,46.4663, Locator: KN36bl</description>
-        <styleUrl>#pm-ec</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>26.1506,46.4833,0</coordinates>
+          <coordinates>26.1540,46.4838,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -2233,7 +2233,7 @@
       <Placemark>
         <name>YO/EC-280 Gombás-bérc</name>
         <description>Gombaș / Cota 1214, Alt.: 1214m, Prom.: 179m, Key col: 26.1756,46.1920, Locator: KN36ce, inside YOFF-422</description>
-        <styleUrl>#pm-a</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
           <coordinates>26.1750,46.1675,0</coordinates>
         </Point>
@@ -2313,7 +2313,7 @@
       <Placemark>
         <name>YO/EC-290 Baric</name>
         <description>Bariț, Alt.: 1215m, Prom.: 157m, Key col: 26.3510,45.9254, Locator: KN35dw, inside YOFF-315</description>
-        <styleUrl>#pm-a</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
           <coordinates>26.3234,45.9260,0</coordinates>
         </Point>
@@ -2321,9 +2321,9 @@
       <Placemark>
         <name>YO/EC-291 Ivănețu</name>
         <description>Alt.: 1191m, Prom.: 242m, Key col: 26.5170,45.5553, Locator: KN35fl</description>
-        <styleUrl>#pm-ec</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>26.4892,45.4892,0</coordinates>
+          <coordinates>26.4896,45.4890,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -2457,9 +2457,9 @@
       <Placemark>
         <name>YO/EC-308 Nagy-Rakottyás</name>
         <description>Răchitiș, Alt.: 1159m, Prom.: 236m, Key col: 25.4971,47.0313, Locator: KN27sa</description>
-        <styleUrl>#pm-ec</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>25.523,47.039,0</coordinates>
+          <coordinates>25.5215,47.0387,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -2593,7 +2593,7 @@
       <Placemark>
         <name>YO/EC-325 Korongos</name>
         <description>Corongoș, Alt.: 1187m, Prom.: 172m, Key col: 26.1856,45.6513, Locator: KN35cp</description>
-        <styleUrl>#pm-a</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
           <coordinates>26.1735,45.6633,0</coordinates>
         </Point>
@@ -2657,9 +2657,9 @@
       <Placemark>
         <name>YO/EC-333 Țiganului</name>
         <description>Alt.: 1081m, Prom.: 184m, Key col: 26.1057,45.3567, Locator: KN35bi</description>
-        <styleUrl>#pm-ec</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>26.0858,45.3575,0</coordinates>
+          <coordinates>26.0862,45.3575,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -2761,7 +2761,7 @@
       <Placemark>
         <name>YO/EC-347 Tárnyica</name>
         <description>Tarnița, Alt.: 1056m, Prom.: 168m, Key col: 25.3033,46.9751, Locator: KN26px</description>
-        <styleUrl>#pm-ec</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
           <coordinates>25.3092,46.9667,0</coordinates>
         </Point>
@@ -2873,9 +2873,9 @@
       <Placemark>
         <name>YO/EC-362 Măgura Odobești</name>
         <description>Alt.: 996m, Prom.: 504m, Key col: 26.7917,45.8236, Locator: KN35lu, inside YOFF-163</description>
-        <styleUrl>#pm-ec</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>26.9500,45.8567,0</coordinates>
+          <coordinates>26.9500,45.8563,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -3065,7 +3065,7 @@
       <Placemark>
         <name>YO/EC-386 Köves-ponk</name>
         <description>Dealul Pietros, Alt.: 942m, Prom.: 248m, Key col: 25.9441,45.7453, Locator: KN25ws</description>
-        <styleUrl>#pm-a</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
           <coordinates>25.9046,45.7544,0</coordinates>
         </Point>
@@ -3169,9 +3169,9 @@
       <Placemark>
         <name>YO/EC-399 Pravila</name>
         <description>Alt.: 875m, Prom.: 176m, Key col: 26.4575,46.2488, Locator: KN36ff</description>
-        <styleUrl>#pm-ec</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>26.4742,46.2492,0</coordinates>
+          <coordinates>26.4738,46.2484,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -3257,9 +3257,9 @@
       <Placemark>
         <name>YO/EC-410 Cornetului</name>
         <description>Alt.: 827m, Prom.: 184m, Key col: 26.2965,45.2958, Locator: KN35dg</description>
-        <styleUrl>#pm-ec</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>26.3025,45.2867,0</coordinates>
+          <coordinates>26.3023,45.2865,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -3289,17 +3289,17 @@
       <Placemark>
         <name>YO/EC-414 Blidișel</name>
         <description>Alt.: 819m, Prom.: 193m, Key col: 26.4401,45.3789, Locator: KN35ei</description>
-        <styleUrl>#pm-ec</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>26.4067,45.3483,0</coordinates>
+          <coordinates>26.4060,45.3486,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>YO/EC-415 Nineasa</name>
         <description>Alt.: 816m, Prom.: 168m, Key col: 26.4907,46.2555, Locator: KN36fg</description>
-        <styleUrl>#pm-ec</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>26.4792,46.2750,0</coordinates>
+          <coordinates>26.4789,46.2747,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -3401,7 +3401,7 @@
       <Placemark>
         <name>YO/EC-428 Lempes</name>
         <description>Lempeș, Alt.: 703m, Prom.: 170m, Key col: 25.6455,45.7047, Locator: KN25tr, inside YOFF-246</description>
-        <styleUrl>#pm-a</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
           <coordinates>25.6571,45.7232,0</coordinates>
         </Point>
@@ -3447,11 +3447,11 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>YO/EC-435 Prâsnelul</name>
+        <name>YO/EC-435 Prâsnelul Văraiului</name>
         <description>Alt.: 651m, Prom.: 231m, Key col: 23.3936,47.4160, Locator: KN17qj</description>
-        <styleUrl>#pm-ec</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>23.4117,47.3925,0</coordinates>
+          <coordinates>23.4109,47.3923,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -3737,9 +3737,9 @@
       <Placemark>
         <name>YO/EC-474 Zmeuret</name>
         <description>Alt.: 1136m, Prom.: 250m, Key col: 26.0783,45.3829, Locator: KN35bi</description>
-        <styleUrl>#pm-ec</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>26.1275,45.3475,0</coordinates>
+          <coordinates>26.1276,45.3475,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -3841,9 +3841,9 @@
       <Placemark>
         <name>YO/EC-488 Pripor</name>
         <description>Alt.: 823m, Prom.: 313m, Key col: 26.1542,45.2947, Locator: KN35cg</description>
-        <styleUrl>#pm-ec</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>26.1875,45.2767,0</coordinates>
+          <coordinates>26.1872,45.2768,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -3895,19 +3895,19 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>YO/EC-495 Chitlăiele</name>
+        <name>YO/EC-495 Cireșoaia</name>
         <description>Alt.: 764m, Prom.: 163m, Key col: 26.5136,46.2669, Locator: KN36gg</description>
-        <styleUrl>#pm-ec</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>26.5375,46.2650,0</coordinates>
+          <coordinates>26.5377,46.2650,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>YO/EC-496 Goși</name>
         <description>Alt.: 755m, Prom.: 168m, Key col: 26.4179,45.3655, Locator: KN35ei</description>
-        <styleUrl>#pm-ec</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>26.4092,45.3708,0</coordinates>
+          <coordinates>26.4098,45.3706,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -3953,33 +3953,33 @@
       <Placemark>
         <name>YO/EC-502 Muncelul Săliștei</name>
         <description>Alt.: 709m, Prom.: 293m, Key col: 23.8423,47.3345, Locator: KN17vg</description>
-        <styleUrl>#pm-ec</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>23.8117,47.2550,0</coordinates>
+          <coordinates>23.8118,47.2549,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>YO/EC-503 Posobești</name>
         <description>Alt.: 708m, Prom.: 209m, Key col: 26.5398,45.4098, Locator: KN35gj</description>
-        <styleUrl>#pm-ec</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>26.5225,45.3842,0</coordinates>
+          <coordinates>26.5227,45.3841,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>YO/EC-504 Delianu</name>
         <description>Alt.: 693m, Prom.: 262m, Key col: 26.9193,45.7335, Locator: KN35lr, inside YOFF-527</description>
-        <styleUrl>#pm-ec</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>26.9950,45.7133,0</coordinates>
+          <coordinates>26.9944,45.7135,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>YO/EC-505 Măgurii</name>
         <description>Alt.: 661m, Prom.: 176m, Key col: 23.8140,47.2654, Locator: KN17vg</description>
-        <styleUrl>#pm-ec</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>23.8025,47.2842,0</coordinates>
+          <coordinates>23.8021,47.2840,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -4017,9 +4017,9 @@
       <Placemark>
         <name>YO/EC-510 Zboiu</name>
         <description>Alt.: 627m, Prom.: 179m, Key col: 26.1880,45.2471, Locator: KN35cf</description>
-        <styleUrl>#pm-ec</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>26.2217,45.2433,0</coordinates>
+          <coordinates>26.2207,45.2425,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -4251,7 +4251,7 @@
         <description>Ghilcoș, Alt.: 1408m, Prom.: 167m, Key col: 25.8006,46.7693, Locator: KN26vs, inside YOFF-004</description>
         <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>25.8133,46.7822,0</coordinates>
+          <coordinates>25.8133,46.7823,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -4321,9 +4321,9 @@
       <Placemark>
         <name>YO/EC-548 Bronei</name>
         <description>Alt.: 1292m, Prom.: 159m, Key col: 25.8056,45.3892, Locator: KN25vj</description>
-        <styleUrl>#pm-ec</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>25.7900,45.3850,0</coordinates>
+          <coordinates>25.7913,45.3858,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -4361,9 +4361,9 @@
       <Placemark>
         <name>YO/EC-554 Fekete szikla</name>
         <description>Bâtca Neagră, Alt.: 1240m, Prom.: 153m, Key col: 25.8624,46.7847, Locator: KN26wt</description>
-        <styleUrl>#pm-ec</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>25.8667,46.7943,0</coordinates>
+          <coordinates>25.8668,46.7941,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -4569,9 +4569,9 @@
       <Placemark>
         <name>YO/EC-580 Zamura</name>
         <description>Alt.: 993m, Prom.: 166m, Key col: 26.0892,45.3333, Locator: KN35bh</description>
-        <styleUrl>#pm-ec</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>26.0936,45.3203,0</coordinates>
+          <coordinates>26.0936,45.3202,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -4689,9 +4689,9 @@
       <Placemark>
         <name>YO/EC-595 Măceșul</name>
         <description>Alt.: 816m, Prom.: 266m, Key col: 25.8314,45.1931, Locator: KN25vd</description>
-        <styleUrl>#pm-ec</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>25.8292,45.1525,0</coordinates>
+          <coordinates>25.8314,45.1524,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -4761,9 +4761,9 @@
       <Placemark>
         <name>YO/EC-604 Nemes-hegy</name>
         <description>Sinioara, Alt.: 755m, Prom.: 165m, Key col: 24.8705,46.8351, Locator: KN26jt</description>
-        <styleUrl>#pm-ec</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>24.8050,46.8017,0</coordinates>
+          <coordinates>24.8046,46.8019,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -4857,9 +4857,9 @@
       <Placemark>
         <name>YO/EC-616 Toci</name>
         <description>Alt.: 618m, Prom.: 186m, Key col: 23.6710,47.3418, Locator: KN17th</description>
-        <styleUrl>#pm-ec</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>23.6525,47.3083,0</coordinates>
+          <coordinates>23.6525,47.3085,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -4905,9 +4905,9 @@
       <Placemark>
         <name>YO/EC-622 Mielăriei</name>
         <description>Alt.: 583m, Prom.: 157m, Key col: 23.7068,47.3359, Locator: KN17uh</description>
-        <styleUrl>#pm-ec</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>23.6775,47.3125,0</coordinates>
+          <coordinates>23.6781,47.3125,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -4945,9 +4945,9 @@
       <Placemark>
         <name>YO/EC-627 Csuha</name>
         <description>Ciuha, Alt.: 546m, Prom.: 155m, Key col: 24.4614,46.9075, Locator: KN26fw</description>
-        <styleUrl>#pm-ec</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>24.4657,46.9292,0</coordinates>
+          <coordinates>24.4642,46.9309,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -5180,9 +5180,9 @@
       <Placemark>
         <name>YO/MC-029 Cozia</name>
         <description>Ciuha MareAlt.: 1668m, Prom.: 929m, Key col: 24.4236,45.3159, Locator: KN25eh, inside YOFF-006</description>
-        <styleUrl>#pm-mc</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>24.3367,45.3225,0</coordinates>
+          <coordinates>24.3359,45.3220,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -5236,9 +5236,9 @@
       <Placemark>
         <name>YO/MC-037 Dealul Înalt</name>
         <description>Alt.: 599m, Prom.: 214m, Key col: 24.3375,46.2298, Locator: KN26de</description>
-        <styleUrl>#pm-mc</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>24.2667,46.1742,0</coordinates>
+          <coordinates>24.2666,46.1743,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -5492,9 +5492,9 @@
       <Placemark>
         <name>YO/MC-071 Vârful lui Pătru</name>
         <description>Alt.: 2130m, Prom.: 523m, Key col: 23.5891,45.4961, Locator: KN15sn, inside YOFF-132</description>
-        <styleUrl>#pm-mc</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>23.5367,45.5500,0</coordinates>
+          <coordinates>23.5368,45.5497,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -5524,17 +5524,17 @@
       <Placemark>
         <name>YO/MC-076 Preotesele</name>
         <description>Alt.: 2086m, Prom.: 277m, Key col: 24.7921,45.5168, Locator: KN25jm, inside YOFF-309</description>
-        <styleUrl>#pm-mc</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>24.8067,45.5075,0</coordinates>
+          <coordinates>24.8067,45.5080,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>YO/MC-077 Surján</name>
         <description>Șureanu, Alt.: 2059m, Prom.: 284m, Key col: 23.5042,45.5687, Locator: KN15rn, inside YOFF-132</description>
-        <styleUrl>#pm-mc</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>23.4942,45.5792,0</coordinates>
+          <coordinates>23.4951,45.5790,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -5700,9 +5700,9 @@
       <Placemark>
         <name>YO/MC-098 Canciu</name>
         <description>Alt.: 1766m, Prom.: 198m, Key col: 23.5274,45.5830, Locator: KN15so, inside YOFF-132</description>
-        <styleUrl>#pm-mc</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>23.5325,45.5917,0</coordinates>
+          <coordinates>23.5330,45.5915,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -6084,9 +6084,9 @@
       <Placemark>
         <name>YO/MC-146 Gurguiatul</name>
         <description>Alt.: 1339m, Prom.: 294m, Key col: 25.5226,45.3081, Locator: KN25sg</description>
-        <styleUrl>#pm-mc</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>25.5583,45.2608,0</coordinates>
+          <coordinates>25.5574,45.2616,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -6186,8 +6186,8 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>YO/MC-160 Merianu</name>
-        <description>Poiana Bârsa Fierului, Alt.: 1212m, Prom.: 186m, Key col: 25.2151,45.6533, Locator: KN25op</description>
+        <name>YO/MC-160 Măgura Merianu</name>
+        <description>Alt.: 1212m, Prom.: 186m, Key col: 25.2151,45.6533, Locator: KN25op</description>
         <styleUrl>#pm-o</styleUrl>
         <Point>
           <coordinates>25.2363,45.6464,0</coordinates>
@@ -6356,9 +6356,9 @@
       <Placemark>
         <name>YO/MC-182 Dealul Șcheiului</name>
         <description>Alt.: 959m, Prom.: 178m, Key col: 24.0741,45.6756, Locator: KN25aq</description>
-        <styleUrl>#pm-mc</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>24.0650,45.6875,0</coordinates>
+          <coordinates>24.0649,45.6879,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -6366,7 +6366,7 @@
         <description>Alt.: 956m, Prom.: 186m, Key col: 24.0081,45.7133, Locator: KN25ar</description>
         <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>24.0125,45.7217,0</coordinates>
+          <coordinates>24.0123,45.7216,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -6388,7 +6388,7 @@
       <Placemark>
         <name>YO/MC-186 Dâlmei</name>
         <description>Alt.: 929m, Prom.: 187m, Key col: 24.2296,45.5892, Locator: KN25co, inside YOFF-132</description>
-        <styleUrl>#pm-a</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
           <coordinates>24.2364,45.5865,0</coordinates>
         </Point>
@@ -6434,11 +6434,11 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>YO/MC-192 Plaiul Galben</name>
-        <description>Alt.: 886m, Prom.: 223m, Key col: 24.4972,45.2624, Locator: KN25ff</description>
-        <styleUrl>#pm-mc</styleUrl>
+        <name>YO/MC-192 Cârlige</name>
+        <description>Alt.: 874m, Prom.: 223m, Key col: 24.4972,45.2624, Locator: KN25ff</description>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>24.4408,45.2267,0</coordinates>
+          <coordinates>24.4411,45.2263,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -6884,7 +6884,7 @@
       <Placemark>
         <name>YO/MC-250 Oancea</name>
         <description>Alt.: 859m, Prom.: 150m, Key col: 24.2390,45.6089, Locator: KN25co, inside YOFF-132</description>
-        <styleUrl>#pm-a</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
           <coordinates>24.2467,45.6095,0</coordinates>
         </Point>
@@ -6956,7 +6956,7 @@
       <Placemark>
         <name>YO/MC-259 Măgura</name>
         <description>Alt.: 565m, Prom.: 158m, Key col: 24.2778,45.6509, Locator: KN25dp, inside YOFF-473</description>
-        <styleUrl>#pm-a</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
           <coordinates>24.2822,45.6453,0</coordinates>
         </Point>
@@ -7199,9 +7199,9 @@
       <Placemark>
         <name>YO/WC-029 Észak-hegy</name>
         <description>Măgura Stânii, Alt.: 716m, Prom.: 167m, Key col: 23.0716,47.1282, Locator: KN17nd</description>
-        <styleUrl>#pm-wc</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>23.1025,47.1533,0</coordinates>
+          <coordinates>23.1029,47.1534,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -7847,9 +7847,9 @@
       <Placemark>
         <name>YO/WC-117 Perjei-csúcs</name>
         <description>Măgura Priei, Alt.: 996m, Prom.: 473m, Key col: 22.9442,46.8839, Locator: KN17ka</description>
-        <styleUrl>#pm-wc</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>22.9100,47.0075,0</coordinates>
+          <coordinates>22.9079,47.0074,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -8071,9 +8071,9 @@
       <Placemark>
         <name>YO/WC-145 Terbete</name>
         <description>Osoiu, Alt.: 874m, Prom.: 343m, Key col: 22.9963,47.0645, Locator: KN17mc</description>
-        <styleUrl>#pm-wc</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>23.0183,47.1050,0</coordinates>
+          <coordinates>23.0180,47.1051,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -8086,10 +8086,10 @@
       </Placemark>
       <Placemark>
         <name>YO/WC-147 Kiscser</name>
-        <description>Chicera Ponița, Alt.: 858m, Prom.: 234m, Key col: 22.945,47.0224, Locator: KN17la</description>
-        <styleUrl>#pm-wc</styleUrl>
+        <description>Citera Ponița, Alt.: 858m, Prom.: 234m, Key col: 22.945,47.0224, Locator: KN17la</description>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>22.9358,47.0392,0</coordinates>
+          <coordinates>22.9362,47.0395,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -8327,9 +8327,9 @@
       <Placemark>
         <name>YO/WC-177 Nádas</name>
         <description>Nadiș, Alt.: 644m, Prom.: 192m, Key col: 23.4913,47.1526, Locator: KN17re</description>
-        <styleUrl>#pm-wc</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>23.4592,47.1850,0</coordinates>
+          <coordinates>23.4589,47.1852,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -8407,9 +8407,9 @@
       <Placemark>
         <name>YO/WC-187 Somlyói Magura</name>
         <description>Măgura Șimleului, Alt.: 596m, Prom.: 306m, Key col: 22.9533,47.1967, Locator: KN17jf</description>
-        <styleUrl>#pm-wc</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>22.7983,47.2475,0</coordinates>
+          <coordinates>22.7979,47.2474,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -8439,9 +8439,9 @@
       <Placemark>
         <name>YO/WC-191 Tálos-tető</name>
         <description>Dumbrava Brebi, Alt.: 557m, Prom.: 232m, Key col: 23.0931,47.2132, Locator: KN17of</description>
-        <styleUrl>#pm-wc</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>23.2158,47.2308,0</coordinates>
+          <coordinates>23.2159,47.2306,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -8479,9 +8479,9 @@
       <Placemark>
         <name>YO/WC-196 Zaboldal-tető</name>
         <description>Gâlpia Nord, Alt.: 501m, Prom.: 202m, Key col: 23.2247,47.1039, Locator: KN17od</description>
-        <styleUrl>#pm-wc</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>23.2458,47.1492,0</coordinates>
+          <coordinates>23.2462,47.1489,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -8503,9 +8503,9 @@
       <Placemark>
         <name>YO/WC-199 Szénégető</name>
         <description>Cărbunari, Alt.: 478m, Prom.: 162m, Key col: 23.2542,47.071, Locator: KN17pb</description>
-        <styleUrl>#pm-wc</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>23.2717,47.0567,0</coordinates>
+          <coordinates>23.2712,47.0568,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -8543,9 +8543,9 @@
       <Placemark>
         <name>YO/WC-205 Telekhegy</name>
         <description>Dealul Toclean, Alt.: 377m, Prom.: 164m, Key col: 22.9201,47.3163, Locator: KN17ki</description>
-        <styleUrl>#pm-wc</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>22.8458,47.3692,0</coordinates>
+          <coordinates>22.8463,47.3690,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -8623,9 +8623,9 @@
       <Placemark>
         <name>YO/WC-216 Fésülő-hegy</name>
         <description>Șindilii, Alt.: 600m, Prom.: 215m, Key col: 23.6296,47.1926, Locator: KN17tf</description>
-        <styleUrl>#pm-wc</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>23.6617,47.2292,0</coordinates>
+          <coordinates>23.6614,47.2291,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -8951,9 +8951,9 @@
       <Placemark>
         <name>YO/WC-257 Szarvhegy</name>
         <description>Cornul, Alt.: 513m, Prom.: 171m, Key col: 23.2418,47.0751, Locator: KN17pc</description>
-        <styleUrl>#pm-wc</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>23.2617,47.0892,0</coordinates>
+          <coordinates>23.2608,47.0891,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -8975,25 +8975,25 @@
       <Placemark>
         <name>YO/WC-260 Forduló</name>
         <description>Întorsătura, Alt.: 437m, Prom.: 156m, Key col: 23.0861,47.2322, Locator: KN17og</description>
-        <styleUrl>#pm-wc</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>23.2258,47.2657,0</coordinates>
+          <coordinates>23.2254,47.2661,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>YO/WC-261 Sajtos-tető</name>
         <description>Pădureni, Alt.: 382m, Prom.: 150m, Key col: 22.7242,47.2142, Locator: KN17hi</description>
-        <styleUrl>#pm-wc</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>22.6386,47.3343,0</coordinates>
+          <coordinates>22.6386,47.3314,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>YO/WC-262 Tisztásbérc</name>
         <description>Curat, Alt.: 362m, Prom.: 157m, Key col: 22.5529,47.2275, Locator: KN17gf, inside YOFF-460</description>
-        <styleUrl>#pm-wc</styleUrl>
+        <styleUrl>#pm-o</styleUrl>
         <Point>
-          <coordinates>22.5282,47.2257,0</coordinates>
+          <coordinates>22.5280,47.2254,0</coordinates>
         </Point>
       </Placemark>
     </Folder>
